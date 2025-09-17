@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="stylesheet" href="assets/css/quiz.css" />
+  <link rel="icon" type="image/x-icon" href="assets/img/logo.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <main class="container quiz-wrap">
+    <header class="quiz-header">
+      <h1>Quiz: Verb 1-2-3</h1>
+      <p class="muted">Latihan bentuk kata kerja dalam dua mode: <b>Verb Forms</b> & <b>Kalimat</b>. Jawaban akan <i>reveal</i> otomatis bila salah <b>2×</b>. Varian (mis. <code>learned/learnt</code>, <code>was/were</code>) didukung.</p>
+    </header>
+    <a href="index.html" class="back-btn">
+    <i class="fa-solid fa-reply"></i> Back
+  </a>
+    <section class="quiz-setup card">
+      <div class="row">
+        <label>Jumlah soal
+          <select id="qCount">
+            <option>5</option>
+            <option selected>10</option>
+            <option>15</option>
+            <option>20</option>
+          </select>
+        </label>
+
+        <label>Jenis Soal
+          <select id="qKind">
+            <option value="v1">V1 → tebak V2 & V3</option>
+            <option value="v2">V2 → tebak V1 & V3</option>
+            <option value="v3">V3 → tebak V1 & V2</option>
+            <option value="random">Random (V1/V2/V3)</option>
+            <option value="sentence">Kalimat (Fill in Blank)</option>
+          </select>
+        </label>
+
+
+        <label>Jenis
+          <select id="qType">
+            <option value="all">All</option>
+            <option value="regular">Regular</option>
+            <option value="irregular">Irregular</option>
+          </select>
+        </label>
+
+        <label class="chk">
+          <input id="showHint" type="checkbox" />
+          <span>Tampilkan Petunjuk</span>
+        </label>
+
+      </div>
+
+      <button id="startBtn" class="primary">Mulai Quiz</button>
+    </section>
+
+    <section class="quiz-arena card" hidden>
+      <div class="quiz-bar">
+        <div id="progressText">Soal 1/10</div>
+        <div class="right">
+          <span class="timer-badge" id="timerText">⏱️ 15s</span>
+          <div class="score-mini" id="scoreText">Skor: 0</div>
+        </div>
+      </div>
+
+      <div class="progress">
+        <div id="progressBar" class="progress-bar"></div>
+      </div>
+
+      <div class="question">
+        <div class="badge">V1</div>
+        <h2 id="qV1">go</h2>
+        <p id="qHint" class="muted" hidden>Hint: —</p>
+      </div>
+
+      <form id="answerForm" autocomplete="off">
+        <div class="grid" id="formInputs">
+          <label>V2 (Past)
+            <input id="ansV2" type="text" placeholder="mis. went" />
+          </label>
+          <label>V3 (Participle)
+            <input id="ansV3" type="text" placeholder="mis. gone" />
+          </label>
+        </div>
+
+        <div class="actions">
+          <button id="checkBtn" class="primary" type="submit">Cek</button>
+          <button id="nextBtn" type="button" disabled>Next</button>
+          <button id="skipBtn" type="button" class="ghost">Skip</button>
+        </div>
+      </form>
+
+      <div id="feedback" class="feedback" aria-live="polite"></div>
+    </section>
+
+    <section class="quiz-result card" hidden>
+  <h2>Hasil</h2>
+  <p id="finalScore">Skor kamu: 0/0</p>
+  <p id="finalGrade" class="grade">Grade: —</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th><th>V1</th><th>V2 benar</th><th>V3 benar</th>
+          <th>Jawabanmu</th><th>Benar?</th>
+        </tr>
+      </thead>
+      <tbody id="resultBody"></tbody>
+    </table>
+  </div>
+
+  <div class="result-actions">
+    <button id="retryWrongBtn" class="primary">Ulangi yang Salah</button>
+    <a href="./quiz.html" class="ghost">Ulangi dari Awal</a>
+    <a href="./index.html" class="ghost">Kembali ke Home</a>
+  </div>
+
+  <div class="leaderboard">
+    <h3>High Scores (Local)</h3>
+    <ol id="highList"></ol>
+  </div>
+</section>
+
+<div id="confetti" aria-hidden="true"></div>
+
+  </main>
+
+  <script src="assets/js/quiz.js"></script>
+</body>
+</html>

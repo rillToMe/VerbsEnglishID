@@ -1,0 +1,38 @@
+.doc { 
+  max-width: 920px; 
+  margin: 28px auto 64px;
+}
+
+.doc-header { 
+  text-align:center; 
+  margin-bottom:10px; 
+}
+
+.doc-header h1 { 
+  margin:0; 
+  font-size:28px; 
+  text-shadow:0 0 14px rgba(0,229,255,.15); 
+}
+
+.subtitle { 
+  color:var(--muted); 
+}
+
+.doc-body {
+  border:1px solid var(--border);
+  border-radius:16px;
+  background:rgba(16,24,40,.6);
+  padding:20px 22px;
+  line-height:1.7;
+}
+.doc-body h2 { 
+  margin:16px 0 6px; 
+}
+
+.doc-body p {
+  margin:0 0 10px; 
+}
+
+.doc-body a { 
+  color:var(--neon-2); 
+}

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Privacy Policy</title>
+  <link rel="stylesheet" href="../assets/css/styles.css" />
+  <link rel="stylesheet" href="../assets/css/legal/privacy.css" />
+  <link rel="icon" type="image/x-icon" href="/assets/img/logo.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <main class="doc container">
+
+    <header class="doc-header">
+      <h1>Privacy Policy</h1>
+      <p class="subtitle">Terakhir diperbarui: <time id="pp-date">2025-09-17</time></p>
+      <a href="/index.html" class="back-btn">
+        <i class="fa-solid fa-reply"></i> Back
+      </a>
+    </header>
+
+    <aside class="doc-toc" aria-label="Daftar isi">
+      <h2 class="toc-title">Isi</h2>
+      <nav>
+        <a href="#scope">1. Ruang Lingkup</a>
+        <a href="#data">2. Data yang Diproses</a>
+        <a href="#usage">3. Cara Penggunaan Data</a>
+        <a href="#storage">4. Penyimpanan & Keamanan</a>
+        <a href="#cookies">5. Cookies & Pihak Ketiga</a>
+        <a href="#rights">6. Hak Pengguna</a>
+        <a href="#children">7. Privasi Anak</a>
+        <a href="#changes">8. Perubahan Kebijakan</a>
+        <a href="#contact">9. Kontak</a>
+      </nav>
+    </aside>
+
+    <article class="doc-body">
+      <section id="scope">
+        <h2>1. Ruang Lingkup</h2>
+        <p>Dokumen ini menjelaskan bagaimana situs <strong>Verb 1-2-3 Finder</strong> (Aether Studio) menangani data saat Anda menggunakan fitur pencarian kata kerja.</p>
+        <ul>
+          <li>Aplikasi berbasis <em>client-side</em>: pemrosesan terjadi di browser Anda.</li>
+          <li>Kami tidak membuat akun, tidak meminta login, dan tidak mengirim data pencarian ke server.</li>
+        </ul>
+      </section>
+
+      <section id="data">
+        <h2>2. Data yang Diproses</h2>
+        <p>Secara default, situs ini <strong>tidak mengumpulkan data pribadi</strong>. Data yang mungkin diproses di perangkat Anda:</p>
+        <ul>
+          <li><strong>Kata kunci pencarian</strong>: hanya untuk menyaring daftar kata kerja di halaman ini.</li>
+          <li><strong>Preferensi tampilan</strong> (mis. jumlah item per halaman): disimpan lokal di browser (opsional) agar pengalaman konsisten.</li>
+        </ul>
+        <p>Data tersebut tidak dikirim ke server dan tidak dibagikan ke pihak mana pun.</p>
+      </section>
+
+      <section id="usage">
+        <h2>3. Cara Penggunaan Data</h2>
+        <p>Semua data hanya digunakan untuk fungsi inti situs (pencarian/filter/penyalinan ke clipboard). Tidak ada profil pengguna, pelacakan perilaku, atau iklan bertarget.</p>
+      </section>
+
+      <section id="storage">
+        <h2>4. Penyimpanan & Keamanan</h2>
+        <ul>
+          <li>Jika diaktifkan, preferensi disimpan sebagai <code>localStorage</code> di perangkat Anda.</li>
+          <li>Anda dapat menghapusnya kapan saja melalui pengaturan browser (“Clear Site Data”).</li>
+          <li>Kami menganjurkan selalu mengakses situs lewat protokol aman (HTTPS) saat dipublikasikan.</li>
+        </ul>
+      </section>
+
+      <section id="cookies">
+        <h2>5. Cookies & Pihak Ketiga</h2>
+        <ul>
+          <li><strong>Cookies</strong>: tidak digunakan secara default.</li>
+          <li><strong>Analitik</strong>: tidak aktif. Jika suatu saat ditambahkan, kami akan memperbarui kebijakan ini
+            dan menampilkan banner persetujuan.</li>
+          <li><strong>Embed pihak ketiga</strong> (mis. ikon, CDN): hanya untuk aset statis. Tidak digunakan untuk pelacakan.</li>
+        </ul>
+      </section>
+
+      <section id="rights">
+        <h2>6. Hak Pengguna</h2>
+        <p>Karena kami tidak menyimpan data pribadi di server, permintaan akses/hapus data biasanya tidak diperlukan.
+        Namun Anda selalu bisa:</p>
+        <ul>
+          <li>Menghapus data lokal (cache, localStorage, cookies) di browser.</li>
+          <li>Menghubungi kami jika ada pertanyaan terkait privasi.</li>
+        </ul>
+      </section>
+
+      <section id="children">
+        <h2>7. Privasi Anak</h2>
+        <p>Situs ini dapat dipakai pelajar. Kami tidak mengumpulkan data dari anak di bawah usia 13 tahun.</p>
+      </section>
+
+      <section id="changes">
+        <h2>8. Perubahan Kebijakan</h2>
+        <p>Kami dapat memperbarui kebijakan ini sewaktu-waktu untuk menyesuaikan fitur/teknologi baru. Tanggal “Terakhir diperbarui” akan diupdate.</p>
+      </section>
+
+      <section id="contact">
+        <h2>9. Kontak</h2>
+        <p><strong>Aether Studio</strong> — tanya via
+          <a href="https://github.com/rillToMe" target="_blank" rel="noopener">GitHub</a> /
+          <a href="https://instagram.com/rill_lyrics" target="_blank" rel="noopener">Instagram</a>.
+        </p>
+      </section>
+    </article>
+  </main>
+
+  <script>
+    const links=[...document.querySelectorAll('.doc-toc a')];
+    const secs=links.map(a=>document.querySelector(a.getAttribute('href')));
+    const onScroll=()=>{let i=secs.findIndex(s=>s.getBoundingClientRect().top>120); i=(i===-1?secs.length:i)-1; links.forEach(l=>l.classList.remove('active')); if(i>=0) links[i].classList.add('active');};
+    document.addEventListener('scroll', onScroll, {passive:true}); onScroll();
+  </script>
+</body>
+</html>

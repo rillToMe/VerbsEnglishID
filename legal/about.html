@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About</title>
+
+  <link rel="stylesheet" href="../assets/css/styles.css" />
+  <link rel="stylesheet" href="../assets/css/legal/about.css" />
+  <link rel="icon" type="image/x-icon" href="/assets/img/logo.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  
+  <main class="about container">
+    <section class="hero">
+      <div class="sparkles" aria-hidden="true"></div>
+      <h1>Aether Studio</h1>
+      
+      <p class="tag">Verb 1-2-3 Finder • Regular & Irregular • Indo Meaning</p>
+      <p class="lead">Proyek open belajar untuk mencari bentuk kata kerja Inggris (V1, V2, V3) dengan cepat-neon dark, ringan, dan sepenuhnya client-side.</p>
+      <div class="badges">
+        <span class="badge">No Server</span>
+        <span class="badge">Fast Search</span>
+        <span class="badge">Copy-on-Click</span>
+        <span class="badge">Neon UI</span>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h3>Pencarian Instan</h3>
+        <p>Ketik V1/V2/V3 atau arti Indonesia. Hasil muncul real-time tanpa reload.</p>
+      </article>
+
+      <article class="card">
+        <h3>Filter Jenis</h3>
+        <p>Pisah Regular/Irregular. Urutan data: Regular duluan, lalu Irregular.</p>
+      </article>
+
+      <article class="card">
+        <h3>UI Konsisten</h3>
+        <p>Tema neon-dark ringan, fokus keterbacaan, dan responsif.</p>
+      </article>
+
+      <article class="card">
+        <h3>Open Data</h3>
+        <p>Data disimpan sebagai JSON agar mudah diperbarui/ditinjau.</p>
+      </article>
+
+      <article class="card">
+        <h3>Quiz Interaktif</h3>
+        <p>Mode Forms (V1→V2&V3, V2→…, V3→…, Random) & Mode Kalimat (Fill-in-the-Blank).</p>
+      </article>
+
+      <article class="card">
+        <h3>Pengalaman Belajar</h3>
+        <p>Timer per soal, progress bar, grade A–E, leaderboard lokal, remedial “latih ulang yang salah”.</p>
+      </article>
+
+      <article class="card">
+        <h3>Anti-Duplikasi & Reveal</h3>
+        <p>Jawaban sama yang salah tidak dihitung attempt; auto-reveal setelah 2× salah.</p>
+      </article>
+
+      <article class="card">
+        <h3>Video Tutorial</h3>
+        <p>Carousel YouTube dengan pager progress 7 detik, sinkron dengan autoplay.</p>
+      </article>
+    </section>
+
+
+    <section class="timeline">
+      <h2>Perjalanan Singkat</h2>
+      <div class="tl">
+        <div class="item">
+          <div class="dot"></div>
+          <div class="content">
+            <h4>Ide Muncul</h4>
+            <p>Butuh kamus Verb 1-2-3 yang praktis dan cepat tanpa buka PDF berulang.</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="dot"></div>
+          <div class="content">
+            <h4>Rancang UI</h4>
+            <p>Neon-dark minimalis: fokus pada tabel dan pencarian.</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="dot"></div>
+          <div class="content">
+            <h4>Rilis Publik</h4>
+            <p>Semua di-client, tanpa akun/logging. Siap dipakai.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="creator">
+      <h2>Pembuat</h2>
+      <div class="profile">
+        <div class="avatar" aria-hidden="true">AS</div>
+        <div>
+          <h3>Aether Studio</h3>
+          <p>Pengembang indie yang suka bikin tools belajar cepat dengan estetika neon-dark.</p>
+          <p class="links">
+            <a href="https://aether-studio.vercel.app" target="_blank" rel="noopener">Aether Studio</a> ·
+            <a href="https://github.com/rillToMe" target="_blank" rel="noopener">GitHub</a> ·
+            <a href="https://instagram.com/rill_lyrics" target="_blank" rel="noopener">Instagram</a>
+          </p>
+        </div>
+      </div>
+    </section>
+    <a href="/index.html" class="back-btn">
+        <i class="fa-solid fa-reply"></i> Back
+      </a>
+  </main>
+
+  <script>
+    const obs = new IntersectionObserver(es=>es.forEach(e=>e.isIntersecting&&e.target.classList.add('reveal')),{threshold:.12});
+    document.querySelectorAll('.card,.item,.profile').forEach(el=>obs.observe(el));
+  </script>
+</body>
+</html>

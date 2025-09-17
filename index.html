@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Regular & Irregular</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="icon" type="image/x-icon" href="assets/img/logo.png">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Verb 1-2-3 Finder</h1>
+    <p class="tagline">Cari bentuk kata kerja Inggris (V1, V2, V3) - Regular & Irregular, lengkap dengan arti Indo.</p>
+  </header>
+
+    <section class="usage-cards container" aria-label="Cara penggunaan regular & irregular verbs">
+    <h2 class="usage-title">Cara Penggunaan Regular & Irregular Verbs</h2>
+    <div class="cards-grid">
+
+      <article class="usage-card">
+        <div class="card-accent regular"></div>
+        <h3>Regular Verbs</h3>
+        <p>Gunakan akhiran <code>-ed</code> atau <code>-d</code> untuk bentuk <b>Past Tense (V2)</b> dan <b>Past Participle (V3)</b>.</p>
+        <ul class="mini">
+          <li><b>Simple Past</b>: <code>I played football yesterday.</code></li>
+          <li><b>Present Perfect</b>: <code>She has studied hard.</code></li>
+        </ul>
+        <p class="tip">Ingat aturan ejaan: <i>study → studied</i>, <i>stop → stopped</i>.</p>
+      </article>
+
+
+      <article class="usage-card">
+        <div class="card-accent irregular"></div>
+        <h3>Irregular Verbs</h3>
+        <p>Bentuk <b>V2</b> dan <b>V3</b>-nya unik (tidak pakai -ed). Harus dihafal per kata.</p>
+        <ul class="mini">
+          <li><b>Simple Past</b>: <code>He went to the market.</code></li>
+          <li><b>Present Perfect</b>: <code>They have gone abroad.</code></li>
+        </ul>
+        <p class="tip">Beberapa irregular punya pola tertentu (mis. <i>sing-sang-sung</i>).</p>
+      </article>
+
+      <article class="usage-card">
+        <div class="card-accent demo"></div>
+        <h3>Perbandingan</h3>
+        <table class="usage-table">
+          <thead>
+            <tr><th>Verb</th><th>V1</th><th>V2</th><th>V3</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Regular</td><td>play</td><td>played</td><td>played</td></tr>
+            <tr><td>Irregular</td><td>go</td><td>went</td><td>gone</td></tr>
+          </tbody>
+        </table>
+      </article>
+
+      <article class="usage-card">
+        <div class="card-accent info"></div>
+        <h3>Tips Cepat</h3>
+        <ul class="mini">
+          <li><b>Pola vokal</b>: 
+            <code>sing → sang → sung</code>, 
+            <code>drink → drank → drunk</code>, 
+            <code>begin → began → begun</code>.
+          </li>
+          <li><b>Sama semua</b>: 
+            <code>put → put → put</code>, 
+            <code>cut → cut → cut</code>, 
+            <code>hit → hit → hit</code>.
+          </li>
+          <li><b>V2 = V3</b>: 
+            <code>build → built → built</code>, 
+            <code>send → sent → sent</code>.
+          </li>
+          <li><b>Hafal kelompok</b>: 
+            misalnya family <i>keep-kept-kept</i>, <i>sleep-slept-slept</i>.
+          </li>
+          <li><b>Practice kalimat</b>: 
+            buat 1 kalimat tiap bentuk → 
+            <code>I write</code>, 
+            <code>I wrote</code>, 
+            <code>I have written</code>.
+          </li>
+        </ul>
+        <p class="tip">Gunakan pola + practice biar lebih gampang diingat daripada ngafalin 1 per 1.</p>
+      </article>
+
+    </div>
+  </section>
+
+  <section class="video-carousel container">
+    <h2 class="carousel-title">Tutorial Video</h2>
+    <div class="carousel-wrapper">
+      <div class="carousel-track">
+        <div class="carousel-item">
+          <iframe src="https://www.youtube.com/embed/XgnWNvl3P6A?rel=0" 
+            title="YouTube video" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="carousel-item">
+          <iframe src="https://www.youtube.com/embed/9vDjGFqtE4s?rel=0" 
+            title="YouTube video" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="carousel-item">
+          <iframe src="https://www.youtube.com/embed/WNlW1npuRi4?rel=0" 
+            title="YouTube video" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-pagers" id="videoPagers">
+      <button class="pager" data-index="0" aria-label="Video 1">
+        <span class="meter"><span class="bar"></span></span>
+      </button>
+      <button class="pager" data-index="1" aria-label="Video 2">
+        <span class="meter"><span class="bar"></span></span>
+      </button>
+      <button class="pager" data-index="2" aria-label="Video 3">
+        <span class="meter"><span class="bar"></span></span>
+      </button>
+    </div>
+
+  </section>
+
+
+  <section class="quiz-link container">
+    <div class="quiz-card">
+      <h2>Latihan Verb 1-2-3</h2>
+      <p>Uji pemahaman kamu dengan <b>quiz interaktif</b>.  
+        Tersedia mode Verb Forms & Kalimat (Fill in Blank)!</p>
+      <a href="quiz.html" class="quiz-btn">Mulai Quiz</a>
+    </div>
+  </section>
+
+  <main class="container">
+    <section class="controls">
+      <div class="control-row">
+        <div class="search-group">
+          <input id="searchInput" type="text" placeholder="Cari: 'go', 'went', 'gone', atau arti Indo (mis. 'pergi')..." />
+          <button id="clearBtn" class="ghost">Clear</button>
+        </div>
+
+        <div class="filters">
+          <label>
+            Jenis
+            <select id="typeFilter">
+              <option value="all">Semua</option>
+              <option value="regular">Regular</option>
+              <option value="irregular">Irregular</option>
+            </select>
+          </label>
+
+          <label>
+            Urutkan
+            <select id="sortSelect">
+              <option value="alpha">A → Z (V1)</option>
+              <option value="type">Jenis → A → Z</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="action-row">
+        <div class="tiny-note">Tips: klik sel V1/V2/V3 untuk <kbd>copy</kbd>.</div>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div id="statsText">0 hasil</div>
+    </section>
+
+    <section class="table-wrap">
+      <table id="verbTable">
+        <thead>
+          <tr>
+            <th style="width: 28%">Verbs 1</th>
+            <th style="width: 22%">Verbs 2</th>
+            <th style="width: 22%">Verbs 3</th>
+            <th style="width: 18%">Jenis</th>
+            <th style="width: 10%">Arti (ID)</th>
+          </tr>
+        </thead>
+        <tbody id="verbTbody"></tbody>
+      </table>
+    </section>
+
+    <section class="pagination">
+      <button id="prevPage" class="ghost">&larr; Prev</button>
+      <span id="pageInfo">Hal 1/1</span>
+      <button id="nextPage" class="ghost">Next &rarr;</button>
+      <label class="perpage">
+        / halaman
+        <select id="perPage">
+          <option>20</option>
+          <option selected>50</option>
+          <option>100</option>
+          <option>200</option>
+        </select>
+      </label>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-brand">Aether Studio</div>
+
+    <div class="footer-links">
+      <a href="/legal/privacy.html">Privacy Policy</a>
+      <a href="/legal/terms.html">Terms of Service</a>
+      <a href="/legal/about.html">About</a>
+      <a href="https://aether-studio.vercel.app" target="_blank" rel="noopener" class="brand-link">Aether Studio</a>
+    </div>
+
+
+
+    <div class="footer-social">
+      <a href="https://github.com/rillToMe" target="_blank" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+      <a href="https://linkedin.com/" target="_blank" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://instagram.com/rill_lyrics" target="_blank" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+
+    <hr class="footer-divider" />
+
+    <div class="footer-bottom">
+      <small>&copy; <span id="year"></span> Aether Studio - All Rights Reserved.</small>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  <script src="assets/js/app.js"></script>
+  <script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+<script>
+  const pageInfo = document.getElementById('pageInfo');
+  pageInfo.setAttribute('aria-live','polite');
+
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'ArrowLeft' && !document.getElementById('prevPage').disabled) {
+      document.getElementById('prevPage').click();
+    }
+    if (e.key === 'ArrowRight' && !document.getElementById('nextPage').disabled) {
+      document.getElementById('nextPage').click();
+    }
+  });
+</script>
+
+</body>
+</html>

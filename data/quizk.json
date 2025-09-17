@@ -1,0 +1,4230 @@
+[
+  { 
+    "sentence": "She .... a song yesterday.",        
+    "use": "v2", 
+    "answer": "sing",  
+    "hint": "bernyanyi" 
+},
+
+  { 
+    "sentence": "They have .... the homework.",       
+    "use": "v3", 
+    "answer": "do",    
+    "hint": "mengerjakan" 
+},
+
+  { 
+    "sentence": "I always .... to school on foot.",   
+    "use": "v1", 
+    "answer": "go",    
+    "hint": "pergi" 
+},
+
+  { "sentence": "We .... a new house last year.",     
+  "use": "v2", "answer": "build", 
+  "hint": "membangun" 
+},
+
+  { "sentence": "He has .... the window.",            
+  "use": "v3", 
+  "answer": "break", 
+  "hint": "memecahkan" 
+},
+
+  { 
+    "sentence": "My sister .... early every day.",    
+    "use": "v1", 
+    "answer": "wake",  
+    "hint": "bangun" 
+},
+
+{
+    "sentence": "She .... a song yesterday.",
+    "use": "v2",
+    "answer": "sing",
+    "hint": "bernyanyi"
+},
+{
+    "sentence": "They have .... the homework quietly.",
+    "use": "v3",
+    "answer": "do",
+    "hint": "mengerjakan"
+},
+{
+    "sentence": "I always .... to school early.",
+    "use": "v1",
+    "answer": "go",
+    "hint": "pergi"
+},
+{
+    "sentence": "We .... a big cake last weekend.",
+    "use": "v2",
+    "answer": "bake",
+    "hint": "memanggang"
+},
+{
+    "sentence": "He has .... the car carefully.",
+    "use": "v3",
+    "answer": "wash",
+    "hint": "mencuci"
+},
+{
+    "sentence": "They .... soccer every Sunday.",
+    "use": "v1",
+    "answer": "play",
+    "hint": "bermain"
+},
+{
+    "sentence": "She .... the book quickly yesterday.",
+    "use": "v2",
+    "answer": "read",
+    "hint": "membaca"
+},
+{
+    "sentence": "We have .... the room together.",
+    "use": "v3",
+    "answer": "clean",
+    "hint": "membersihkan"
+},
+{
+    "sentence": "He .... to the park daily.",
+    "use": "v1",
+    "answer": "walk",
+    "hint": "berjalan"
+},
+{
+    "sentence": "They .... a movie last night.",
+    "use": "v2",
+    "answer": "watch",
+    "hint": "menonton"
+},
+{
+    "sentence": "I have .... the letter already.",
+    "use": "v3",
+    "answer": "write",
+    "hint": "menulis"
+},
+{
+    "sentence": "She .... her friends often.",
+    "use": "v1",
+    "answer": "call",
+    "hint": "menelpon"
+},
+{
+    "sentence": "He .... the door loudly yesterday.",
+    "use": "v2",
+    "answer": "close",
+    "hint": "menutup"
+},
+{
+    "sentence": "They have .... the game fairly.",
+    "use": "v3",
+    "answer": "play",
+    "hint": "bermain"
+},
+{
+    "sentence": "We .... breakfast every morning.",
+    "use": "v1",
+    "answer": "eat",
+    "hint": "makan"
+},
+{
+    "sentence": "She .... a dance last party.",
+    "use": "v2",
+    "answer": "perform",
+    "hint": "menampilkan"
+},
+{
+    "sentence": "I have .... the test successfully.",
+    "use": "v3",
+    "answer": "pass",
+    "hint": "lulus"
+},
+{
+    "sentence": "They .... the river last trip.",
+    "use": "v2",
+    "answer": "cross",
+    "hint": "menyeberangi"
+},
+{
+    "sentence": "He .... coffee every afternoon.",
+    "use": "v1",
+    "answer": "drink",
+    "hint": "minum"
+},
+{
+    "sentence": "We have .... the plan carefully.",
+    "use": "v3",
+    "answer": "discuss",
+    "hint": "membahas"
+},
+{
+    "sentence": "She .... the guitar yesterday.",
+    "use": "v2",
+    "answer": "play",
+    "hint": "memainkan"
+},
+{
+    "sentence": "They have .... the race proudly.",
+    "use": "v3",
+    "answer": "win",
+    "hint": "menang"
+},
+{
+    "sentence": "I .... to bed early always.",
+    "use": "v1",
+    "answer": "go",
+    "hint": "pergi"
+},
+{
+    "sentence": "He .... the bike last summer.",
+    "use": "v2",
+    "answer": "ride",
+    "hint": "menunggangi"
+},
+{
+    "sentence": "We have .... the story twice.",
+    "use": "v3",
+    "answer": "tell",
+    "hint": "menceritakan"
+},
+{
+    "sentence": "She .... the dog daily.",
+    "use": "v1",
+    "answer": "feed",
+    "hint": "memberi makan"
+},
+{
+    "sentence": "They .... the house yesterday.",
+    "use": "v2",
+    "answer": "paint",
+    "hint": "mengcat"
+},
+{
+    "sentence": "I have .... the news today.",
+    "use": "v3",
+    "answer": "hear",
+    "hint": "mendengar"
+},
+{
+    "sentence": "He .... the game every week.",
+    "use": "v1",
+    "answer": "watch",
+    "hint": "menonton"
+},
+{
+    "sentence": "She .... the cake last party.",
+    "use": "v2",
+    "answer": "cut",
+    "hint": "memotong"
+},
+{
+    "sentence": "We have .... the project now.",
+    "use": "v3",
+    "answer": "finish",
+    "hint": "menyelesaikan"
+},
+{
+    "sentence": "They .... the store often.",
+    "use": "v1",
+    "answer": "visit",
+    "hint": "mengunjungi"
+},
+{
+    "sentence": "He .... the book yesterday.",
+    "use": "v2",
+    "answer": "buy",
+    "hint": "membeli"
+},
+{
+    "sentence": "I have .... the song twice.",
+    "use": "v3",
+    "answer": "sing",
+    "hint": "bernyanyi"
+},
+{
+    "sentence": "She .... the room daily.",
+    "use": "v1",
+    "answer": "clean",
+    "hint": "membersihkan"
+},
+{
+    "sentence": "They .... the hill last month.",
+    "use": "v2",
+    "answer": "climb",
+    "hint": "memanjat"
+},
+{
+    "sentence": "We have .... the letter now.",
+    "use": "v3",
+    "answer": "send",
+    "hint": "mengirim"
+},
+{
+    "sentence": "He .... the car every day.",
+    "use": "v1",
+    "answer": "drive",
+    "hint": "mengendarai"
+},
+{
+    "sentence": "She .... the test yesterday.",
+    "use": "v2",
+    "answer": "take",
+    "hint": "mengikuti"
+},
+{
+    "sentence": "I have .... the food already.",
+    "use": "v3",
+    "answer": "cook",
+    "hint": "memasak"
+},
+{
+    "sentence": "They .... the park often.",
+    "use": "v1",
+    "answer": "visit",
+    "hint": "mengunjungi"
+},
+{
+    "sentence": "He .... the dog last week.",
+    "use": "v2",
+    "answer": "feed",
+    "hint": "memberi makan"
+},
+{
+    "sentence": "We have .... the movie twice.",
+    "use": "v3",
+    "answer": "watch",
+    "hint": "menonton"
+},
+{
+    "sentence": "She .... the letter daily.",
+    "use": "v1",
+    "answer": "write",
+    "hint": "menulis"
+},
+{
+    "sentence": "They .... the game yesterday.",
+    "use": "v2",
+    "answer": "lose",
+    "hint": "kalah"
+},
+{
+    "sentence": "I have .... the book now.",
+    "use": "v3",
+    "answer": "read",
+    "hint": "membaca"
+},
+{
+    "sentence": "He .... the ball every day.",
+    "use": "v1",
+    "answer": "kick",
+    "hint": "menendang"
+},
+{
+    "sentence": "She .... the song last night.",
+    "use": "v2",
+    "answer": "sing",
+    "hint": "bernyanyi"
+},
+{
+    "sentence": "We have .... the plan today.",
+    "use": "v3",
+    "answer": "make",
+    "hint": "membuat"
+},
+{
+    "sentence": "They .... the house often.",
+    "use": "v1",
+    "answer": "clean",
+    "hint": "membersihkan"
+},
+{
+    "sentence": "He .... the race yesterday.",
+    "use": "v2",
+    "answer": "run",
+    "hint": "lari"
+},
+{
+    "sentence": "I have .... the car now.",
+    "use": "v3",
+    "answer": "fix",
+    "hint": "memperbaiki"
+},
+{
+    "sentence": "She .... the dog daily.",
+    "use": "v1",
+    "answer": "walk",
+    "hint": "berjalan"
+},
+{
+    "sentence": "They .... the cake last party.",
+    "use": "v2",
+    "answer": "eat",
+    "hint": "makan"
+},
+{
+    "sentence": "We have .... the room today.",
+    "use": "v3",
+    "answer": "paint",
+    "hint": "mengcat"
+},
+{
+    "sentence": "He .... the book every week.",
+    "use": "v1",
+    "answer": "read",
+    "hint": "membaca"
+},
+{
+    "sentence": "She .... the game yesterday.",
+    "use": "v2",
+    "answer": "play",
+    "hint": "bermain"
+},
+{
+    "sentence": "I have .... the letter now.",
+    "use": "v3",
+    "answer": "send",
+    "hint": "mengirim"
+},
+{
+    "sentence": "They .... the park daily.",
+    "use": "v1",
+    "answer": "visit",
+    "hint": "mengunjungi"
+},
+{
+    "sentence": "He .... the car last month.",
+    "use": "v2",
+    "answer": "drive",
+    "hint": "mengendarai"
+},
+{
+    "sentence": "We have .... the test today.",
+    "use": "v3",
+    "answer": "take",
+    "hint": "mengikuti"
+},
+{
+    "sentence": "She .... the food often.",
+    "use": "v1",
+    "answer": "cook",
+    "hint": "memasak"
+},
+{
+    "sentence": "They .... the hill yesterday.",
+    "use": "v2",
+    "answer": "climb",
+    "hint": "memanjat"
+},
+{
+    "sentence": "I have .... the dog now.",
+    "use": "v3",
+    "answer": "feed",
+    "hint": "memberi makan"
+},
+{
+    "sentence": "He .... the movie daily.",
+    "use": "v1",
+    "answer": "watch",
+    "hint": "menonton"
+},
+{
+    "sentence": "She .... the letter yesterday.",
+    "use": "v2",
+    "answer": "write",
+    "hint": "menulis"
+},
+{
+    "sentence": "We have .... the game now.",
+    "use": "v3",
+    "answer": "lose",
+    "hint": "kalah"
+},
+{
+    "sentence": "They .... the ball often.",
+    "use": "v1",
+    "answer": "kick",
+    "hint": "menendang"
+},
+{
+    "sentence": "He .... the song last night.",
+    "use": "v2",
+    "answer": "sing",
+    "hint": "bernyanyi"
+},
+{
+    "sentence": "I have .... the plan today.",
+    "use": "v3",
+    "answer": "make",
+    "hint": "membuat"
+},
+{
+    "sentence": "She .... the house daily.",
+    "use": "v1",
+    "answer": "clean",
+    "hint": "membersihkan"
+},
+{
+    "sentence": "They .... the race yesterday.",
+    "use": "v2",
+    "answer": "run",
+    "hint": "lari"
+},
+{
+    "sentence": "We have .... the car now.",
+    "use": "v3",
+    "answer": "fix",
+    "hint": "memperbaiki"
+},
+{
+    "sentence": "He .... the dog every day.",
+    "use": "v1",
+    "answer": "walk",
+    "hint": "berjalan"
+},
+{
+    "sentence": "She .... the cake last party.",
+    "use": "v2",
+    "answer": "eat",
+    "hint": "makan"
+},
+{
+    "sentence": "I have .... the room today.",
+    "use": "v3",
+    "answer": "paint",
+    "hint": "mengcat"
+},
+{
+    "sentence": "They .... the book weekly.",
+    "use": "v1",
+    "answer": "read",
+    "hint": "membaca"
+},
+{
+    "sentence": "He .... the game yesterday.",
+    "use": "v2",
+    "answer": "play",
+    "hint": "bermain"
+},
+{
+    "sentence": "We have .... the letter now.",
+    "use": "v3",
+    "answer": "send",
+    "hint": "mengirim"
+},
+{
+    "sentence": "She .... the park daily.",
+    "use": "v1",
+    "answer": "visit",
+    "hint": "mengunjungi"
+},
+{
+    "sentence": "They .... the car last month.",
+    "use": "v2",
+    "answer": "drive",
+    "hint": "mengendarai"
+},
+{
+    "sentence": "I have .... the test today.",
+    "use": "v3",
+    "answer": "take",
+    "hint": "mengikuti"
+},
+{
+    "sentence": "He .... the food often.",
+    "use": "v1",
+    "answer": "cook",
+    "hint": "memasak"
+},
+{
+    "sentence": "She .... the hill yesterday.",
+    "use": "v2",
+    "answer": "climb",
+    "hint": "memanjat"
+},
+{
+    "sentence": "We have .... the dog now.",
+    "use": "v3",
+    "answer": "feed",
+    "hint": "memberi makan"
+},
+{
+    "sentence": "They .... the movie daily.",
+    "use": "v1",
+    "answer": "watch",
+    "hint": "menonton"
+},
+{
+    "sentence": "He .... the letter yesterday.",
+    "use": "v2",
+    "answer": "write",
+    "hint": "menulis"
+},
+{
+    "sentence": "I have .... the game now.",
+    "use": "v3",
+    "answer": "lose",
+    "hint": "kalah"
+},
+{
+    "sentence": "She .... the ball often.",
+    "use": "v1",
+    "answer": "kick",
+    "hint": "menendang"
+},
+{
+    "sentence": "They .... the song last night.",
+    "use": "v2",
+    "answer": "sing",
+    "hint": "bernyanyi"
+},
+{
+    "sentence": "We have .... the plan today.",
+    "use": "v3",
+    "answer": "make",
+    "hint": "membuat"
+},
+{
+    "sentence": "He .... the house daily.",
+    "use": "v1",
+    "answer": "clean",
+    "hint": "membersihkan"
+},
+{
+    "sentence": "She .... the race yesterday.",
+    "use": "v2",
+    "answer": "run",
+    "hint": "lari"
+},
+{
+    "sentence": "I have .... the car now.",
+    "use": "v3",
+    "answer": "fix",
+    "hint": "memperbaiki"
+},
+{
+    "sentence": "They .... the dog every day.",
+    "use": "v1",
+    "answer": "walk",
+    "hint": "berjalan"
+},
+{
+    "sentence": "He .... the cake last party.",
+    "use": "v2",
+    "answer": "eat",
+    "hint": "makan"
+},
+{
+    "sentence": "We have .... the room today.",
+    "use": "v3",
+    "answer": "paint",
+    "hint": "mengcat"
+},
+{
+"sentence": "He .... the gift from his friend last birthday.",
+"use": "v2",
+"answer": "accept",
+"hint": "menerima"
+},
+{
+"sentence": "She has .... her goals in life after hard work.",
+"use": "v3",
+"answer": "achieve",
+"hint": "meraih"
+},
+{
+"sentence": "They .... salt to the soup every time they cook in the kitchen.",
+"use": "v1",
+"answer": "add",
+"hint": "menambahkan"
+},
+{
+"sentence": "I .... the painting in the museum yesterday with admiration.",
+"use": "v2",
+"answer": "admire",
+"hint": "mengagumi"
+},
+{
+"sentence": "We have .... our mistakes to the teacher honestly.",
+"use": "v3",
+"answer": "admit",
+"hint": "mengakui"
+},
+{
+"sentence": "The family .... a puppy from the shelter last month.",
+"use": "v2",
+"answer": "adopt",
+"hint": "mengambil"
+},
+{
+"sentence": "My friend .... me to study harder for the exam regularly.",
+"use": "v1",
+"answer": "advise",
+"hint": "menasihati"
+},
+{
+"sentence": "They can't .... to buy a new car this year due to budget issues.",
+"use": "v1",
+"answer": "afford",
+"hint": "mampu"
+},
+{
+"sentence": "We .... with the terms of the contract after discussion.",
+"use": "v2",
+"answer": "agree",
+"hint": "menyetujui"
+},
+{
+"sentence": "The parents .... their children to play outside after homework.",
+"use": "v1",
+"answer": "allow",
+"hint": "mengizinkan"
+},
+{
+"sentence": "The comedian has .... the audience with his jokes at the show.",
+"use": "v3",
+"answer": "amuse",
+"hint": "menghibur"
+},
+{
+"sentence": "Scientists .... the data to find patterns in the lab.",
+"use": "v1",
+"answer": "analyze",
+"hint": "menganalisa"
+},
+{
+"sentence": "The company .... a new product launch last week.",
+"use": "v2",
+"answer": "announce",
+"hint": "mengumumkan"
+},
+{
+"sentence": "The noisy neighbors .... us every night with loud music.",
+"use": "v1",
+"answer": "annoy",
+"hint": "mengganggu"
+},
+{
+"sentence": "She has .... the question correctly in the test.",
+"use": "v3",
+"answer": "answer",
+"hint": "menjawab"
+},
+{
+"sentence": "He .... for being late to the meeting with an excuse.",
+"use": "v2",
+"answer": "apologize",
+"hint": "minta maaf"
+},
+{
+"sentence": "The ghost .... in the old house suddenly at night.",
+"use": "v1",
+"answer": "appear",
+"hint": "muncul"
+},
+{
+"sentence": "The audience .... the performance enthusiastically at the end.",
+"use": "v2",
+"answer": "applaud",
+"hint": "bertepuk tangan"
+},
+{
+"sentence": "We .... the kind gesture from our neighbors greatly.",
+"use": "v1",
+"answer": "appreciate",
+"hint": "menghargai"
+},
+{
+"sentence": "The manager has .... the new project proposal after review.",
+"use": "v3",
+"answer": "approve",
+"hint": "menyetujui"
+},
+{
+"sentence": "They .... about the topic for hours in the debate.",
+"use": "v2",
+"answer": "argue",
+"hint": "mendebat"
+},
+{
+"sentence": "She .... the books on the shelf neatly in order.",
+"use": "v1",
+"answer": "arrange",
+"hint": "mengatur"
+},
+{
+"sentence": "The police .... the suspect after the chase in the city.",
+"use": "v2",
+"answer": "arrest",
+"hint": "menangkap menahan"
+},
+{
+"sentence": "The plane has .... at the airport on time despite delay.",
+"use": "v3",
+"answer": "arrive",
+"hint": "tiba"
+},
+{
+"sentence": "I .... the teacher a question during class hour.",
+"use": "v1",
+"answer": "ask",
+"hint": "meminta bertanya"
+},
+{
+"sentence": "She .... the file to the email before sending it.",
+"use": "v2",
+"answer": "attach",
+"hint": "melampirkan"
+},
+{
+"sentence": "The dog .... the mailman yesterday in the yard.",
+"use": "v2",
+"answer": "attack",
+"hint": "menyerang"
+},
+{
+"sentence": "He has .... to fix the problem several times without success.",
+"use": "v3",
+"answer": "attempt",
+"hint": "mencoba"
+},
+{
+"sentence": "They .... the conference last year in London.",
+"use": "v2",
+"answer": "attend",
+"hint": "menghadiri"
+},
+{
+"sentence": "The flowers .... bees in the garden during spring.",
+"use": "v1",
+"answer": "attract",
+"hint": "menarik memikat"
+},
+{
+"sentence": "We .... the crowded area during the festival to stay safe.",
+"use": "v2",
+"answer": "avoid",
+"hint": "menghindar mencegah"
+},
+{
+"sentence": "She .... cookies for the party with chocolate chips.",
+"use": "v1",
+"answer": "bake",
+"hint": "memanggang"
+},
+{
+"sentence": "The budget .... the expenses perfectly for the month.",
+"use": "v2",
+"answer": "balance",
+"hint": "mengimbangkan"
+},
+{
+"sentence": "The government has .... smoking in public places nationwide.",
+"use": "v3",
+"answer": "ban",
+"hint": "melarang"
+},
+{
+"sentence": "He .... his soul in the confession to the priest.",
+"use": "v1",
+"answer": "bare",
+"hint": "memperlihatkan"
+},
+{
+"sentence": "The player .... the ball with precision in the game.",
+"use": "v2",
+"answer": "bat",
+"hint": "memukul dgn tongkat"
+},
+{
+"sentence": "I .... the baby before bedtime every night.",
+"use": "v1",
+"answer": "bathe",
+"hint": "memandikan"
+},
+{
+"sentence": "The two armies .... for control of the land for days.",
+"use": "v2",
+"answer": "battle",
+"hint": "bertarung"
+},
+{
+"sentence": "The light .... through the window brightly in the morning.",
+"use": "v1",
+"answer": "beam",
+"hint": "mengarahkan bercahaya"
+},
+{
+"sentence": "The beggar .... for food on the street corner.",
+"use": "v2",
+"answer": "beg",
+"hint": "mengemis meminta"
+},
+{
+"sentence": "Children .... well in class to get good grades.",
+"use": "v1",
+"answer": "behave",
+"hint": "berkelakuan"
+},
+{
+"sentence": "The book has .... to the library for years without being borrowed.",
+"use": "v3",
+"answer": "belong",
+"hint": "termasuk milik"
+},
+{
+"sentence": "She .... her hair to make it lighter for summer.",
+"use": "v1",
+"answer": "bleach",
+"hint": "memutihkan"
+},
+{
+"sentence": "The priest .... the couple at the wedding ceremony.",
+"use": "v2",
+"answer": "bless",
+"hint": "memberkati"
+},
+{
+"sentence": "The bright light .... my eyes temporarily during the show.",
+"use": "v1",
+"answer": "blind",
+"hint": "membutakan"
+},
+{
+"sentence": "He .... his eyes in surprise when he saw the gift.",
+"use": "v2",
+"answer": "blink",
+"hint": "berkedip"
+},
+{
+"sentence": "The ink .... the paper accidentally while writing.",
+"use": "v1",
+"answer": "blot",
+"hint": "mengotori menodai"
+},
+{
+"sentence": "She .... when she heard the compliment from him.",
+"use": "v2",
+"answer": "blush",
+"hint": "tersipu"
+},
+{
+"sentence": "He .... about his achievements to his friends.",
+"use": "v1",
+"answer": "boast",
+"hint": "membual membanggakan diri"
+},
+{
+"sentence": "The water .... at 100 degrees Celsius in the pot.",
+"use": "v2",
+"answer": "boil",
+"hint": "mendidih merebus"
+},
+{
+"sentence": "I .... money from my friend for the trip.",
+"use": "v1",
+"answer": "borrow",
+"hint": "meminjam"
+},
+{
+"sentence": "The ball .... off the wall during the game.",
+"use": "v2",
+"answer": "bounce",
+"hint": "melambung melompat"
+},
+{
+"sentence": "She .... in respect to the elder at the ceremony.",
+"use": "v1",
+"answer": "bow",
+"hint": "tunduk membungkuk"
+},
+{
+"sentence": "The tree .... into several parts after the storm.",
+"use": "v2",
+"answer": "branch",
+"hint": "bercabang"
+},
+{
+"sentence": "The fire .... the house completely last night.",
+"use": "v1",
+"answer": "burn",
+"hint": "membakar"
+},
+{
+"sentence": "I .... into the door by accident in the dark.",
+"use": "v2",
+"answer": "bump",
+"hint": "menabrak"
+},
+{
+"sentence": "They .... the treasure in the backyard under the tree.",
+"use": "v1",
+"answer": "bury",
+"hint": "mengubur"
+},
+{
+"sentence": "She has .... the cost of the trip accurately.",
+"use": "v3",
+"answer": "calculate",
+"hint": "menghitung"
+},
+{
+"sentence": "He .... his mother on the phone every evening.",
+"use": "v2",
+"answer": "call",
+"hint": "memanggil menelpon"
+},
+{
+"sentence": "The porter .... the luggage to the room upstairs.",
+"use": "v1",
+"answer": "carry",
+"hint": "membawa"
+},
+{
+"sentence": "The accident .... a lot of damage to the car.",
+"use": "v2",
+"answer": "cause",
+"hint": "menyebabkan"
+},
+{
+"sentence": "He .... his brother to a race in the park.",
+"use": "v1",
+"answer": "challenge",
+"hint": "menantang"
+},
+{
+"sentence": "We have .... our plans for the vacation due to weather.",
+"use": "v3",
+"answer": "change",
+"hint": "mengubah"
+},
+{
+"sentence": "The phone .... for hours before it's full.",
+"use": "v1",
+"answer": "charge",
+"hint": "mengisi"
+},
+{
+"sentence": "The cat .... the mouse in the garden yesterday.",
+"use": "v2",
+"answer": "chase",
+"hint": "mengejar memburu"
+},
+{
+"sentence": "She .... on the test and got caught by the teacher.",
+"use": "v1",
+"answer": "cheat",
+"hint": "menyontek menipu"
+},
+{
+"sentence": "I .... the house every weekend with my family.",
+"use": "v2",
+"answer": "clean",
+"hint": "membersihkan"
+},
+{
+"sentence": "He has .... rare stamps from around the world in his collection.",
+"use": "v3",
+"answer": "collect",
+"hint": "mengumpulkan"
+},
+{
+"sentence": "They .... prices before buying the best deal.",
+"use": "v1",
+"answer": "compare",
+"hint": "membandingkan"
+},
+{
+"sentence": "This matter .... everyone in the family meeting.",
+"use": "v2",
+"answer": "concern",
+"hint": "menyangkut mengenai"
+},
+{
+"sentence": "The thief .... to the crime under pressure.",
+"use": "v1",
+"answer": "confess",
+"hint": "mengaku"
+},
+{
+"sentence": "She has .... all options before deciding on the plan.",
+"use": "v3",
+"answer": "consider",
+"hint": "mempertimbangkan memikirkan"
+},
+{
+"sentence": "He .... the document from the original file.",
+"use": "v2",
+"answer": "copy",
+"hint": "menyalin meniru"
+},
+{
+"sentence": "The baby .... when he fell from the chair.",
+"use": "v1",
+"answer": "cry",
+"hint": "menangis"
+},
+{
+"sentence": "The car .... into the tree during the storm.",
+"use": "v2",
+"answer": "crash",
+"hint": "menabrak"
+},
+{
+"sentence": "The baby .... across the room to his mother.",
+"use": "v1",
+"answer": "crawl",
+"hint": "merangkak"
+},
+{
+"sentence": "The storm .... the bridge last night.",
+"use": "v2",
+"answer": "damage",
+"hint": "merusak"
+},
+{
+"sentence": "They .... at the party all night long.",
+"use": "v1",
+"answer": "dance",
+"hint": "menari"
+},
+{
+"sentence": "He .... to jump the fence in the yard.",
+"use": "v2",
+"answer": "dare",
+"hint": "berani"
+},
+{
+"sentence": "Don't .... your friends with false promises ever.",
+"use": "v1",
+"answer": "deceive",
+"hint": "menipu memperdaya"
+},
+{
+"sentence": "We have .... on the date for the trip after discussion.",
+"use": "v3",
+"answer": "decide",
+"hint": "memutuskan"
+},
+{
+"sentence": "The train .... due to bad weather conditions.",
+"use": "v2",
+"answer": "delay",
+"hint": "menunda"
+},
+{
+"sentence": "The courier .... the package on time to the address.",
+"use": "v1",
+"answer": "deliver",
+"hint": "menyampaikan mengantarkan"
+},
+{
+"sentence": "The soldier .... his post during the war crisis.",
+"use": "v2",
+"answer": "desert",
+"hint": "meninggalkan melarikan diri"
+},
+{
+"sentence": "You .... a better grade for your effort in the test.",
+"use": "v1",
+"answer": "deserve",
+"hint": "berhak/pantas menerima"
+},
+{
+"sentence": "They .... the cake equally among the children at the party.",
+"use": "v2",
+"answer": "divide",
+"hint": "membagi"
+},
+{
+"sentence": "I .... the truth of his story after hearing it.",
+"use": "v1",
+"answer": "doubt",
+"hint": "meragukan mempertanyakan"
+},
+{
+"sentence": "The man .... in the lake during the storm.",
+"use": "v2",
+"answer": "drown",
+"hint": "menenggelamkan"
+},
+{
+"sentence": "She .... up for the party in a beautiful gown.",
+"use": "v1",
+"answer": "dress",
+"hint": "berpakaian berdandan"
+},
+{
+"sentence": "He has .... a good income from his job this year.",
+"use": "v3",
+"answer": "earn",
+"hint": "menghasilkan mendapatkan"
+},
+{
+"sentence": "Teachers .... students to be responsible citizens.",
+"use": "v1",
+"answer": "educate",
+"hint": "mendidik"
+},
+{
+"sentence": "The question .... me in front of the class during the presentation.",
+"use": "v2",
+"answer": "embarrass",
+"hint": "memalukan"
+},
+{
+"sentence": "The company .... new staff for the project expansion.",
+"use": "v1",
+"answer": "employ",
+"hint": "mempekerjakan"
+},
+{
+"sentence": "He .... the trash bin after the party was over.",
+"use": "v2",
+"answer": "empty",
+"hint": "mengosongkan"
+},
+{
+"sentence": "Parents .... their children to do well in school.",
+"use": "v1",
+"answer": "encourage",
+"hint": "mendorong"
+},
+{
+"sentence": "The movie .... with a happy scene and credits.",
+"use": "v2",
+"answer": "end",
+"hint": "berakhir mengakhiri"
+},
+{
+"sentence": "We .... the concert very much last night.",
+"use": "v1",
+"answer": "enjoy",
+"hint": "menikmati"
+},
+{
+"sentence": "Please .... the room through the door quietly.",
+"use": "v2",
+"answer": "enter",
+"hint": "masuk"
+},
+{
+"sentence": "The clown .... the kids at the birthday party with tricks.",
+"use": "v1",
+"answer": "entertain",
+"hint": "menghibur"
+},
+{
+"sentence": "The prisoner .... from jail last night under cover of darkness.",
+"use": "v2",
+"answer": "escape",
+"hint": "melarikan diri"
+},
+{
+"sentence": "The doctor .... the patient thoroughly before surgery.",
+"use": "v1",
+"answer": "examine",
+"hint": "memeriksa menguji"
+},
+{
+"sentence": "The news .... everyone in the room with joy.",
+"use": "v2",
+"answer": "excite",
+"hint": "menggairahkan"
+},
+{
+"sentence": "He .... his behavior in the letter to his boss.",
+"use": "v1",
+"answer": "excuse",
+"hint": "mengampuni membebaskan"
+},
+{
+"sentence": "We .... our right to vote in the election.",
+"use": "v2",
+"answer": "exercise",
+"hint": "menggunakan menjalankan"
+},
+{
+"sentence": "Ghosts .... in old legends and stories.",
+"use": "v1",
+"answer": "exist",
+"hint": "ada"
+},
+{
+"sentence": "The business .... to new markets overseas.",
+"use": "v2",
+"answer": "expand",
+"hint": "memperluas mengembangkan"
+},
+{
+"sentence": "I .... a package in the mail soon.",
+"use": "v1",
+"answer": "expect",
+"hint": "mengharapkan"
+},
+{
+"sentence": "She .... the concept clearly to the students.",
+"use": "v2",
+"answer": "explain",
+"hint": "menjelaskan"
+},
+{
+"sentence": "The bomb .... in the city causing chaos.",
+"use": "v1",
+"answer": "explode",
+"hint": "meledak"
+},
+{
+"sentence": "The company has .... the contract for another year successfully.",
+"use": "v3",
+"answer": "extend",
+"hint": "memperpanjang"
+},
+{
+"sentence": "She .... many challenges in life bravely.",
+"use": "v1",
+"answer": "face",
+"hint": "menghadap menghadapi"
+},
+{
+"sentence": "The colors .... after washing the clothes.",
+"use": "v2",
+"answer": "fade",
+"hint": "luntur pudar"
+},
+{
+"sentence": "He .... the exam despite studying hard all night.",
+"use": "v1",
+"answer": "fail",
+"hint": "gagal"
+},
+{
+"sentence": "I .... a new dress for the party next week.",
+"use": "v2",
+"answer": "fancy",
+"hint": "menyukai membayangkan"
+},
+{
+"sentence": "She .... her belt before leaving the house.",
+"use": "v1",
+"answer": "fasten",
+"hint": "mengikatkan mengancingkan"
+},
+{
+"sentence": "People .... the dark in the cave during the tour.",
+"use": "v2",
+"answer": "fear",
+"hint": "takut"
+},
+{
+"sentence": "They .... the yard to keep the dog in safely.",
+"use": "v1",
+"answer": "fence",
+"hint": "memagari"
+},
+{
+"sentence": "The dog .... the bone from the kitchen table.",
+"use": "v2",
+"answer": "fetch",
+"hint": "mendapat"
+},
+{
+"sentence": "The tank .... with gas at the station before the trip.",
+"use": "v1",
+"answer": "fill",
+"hint": "mengisi"
+},
+{
+"sentence": "The boss .... the employee for misconduct last week.",
+"use": "v2",
+"answer": "fire",
+"hint": "memecat melepaskan"
+},
+{
+"sentence": "The shirt .... me perfectly for the occasion.",
+"use": "v1",
+"answer": "fit",
+"hint": "menyesuaikan pas cocok"
+},
+{
+"sentence": "The mechanic .... the car engine quickly.",
+"use": "v2",
+"answer": "fix",
+"hint": "memperbaiki"
+},
+{
+"sentence": "The bird .... its wings to fly away from danger.",
+"use": "v1",
+"answer": "flap",
+"hint": "mengepakkan mengibarkan"
+},
+{
+"sentence": "People .... at the beach to relax and have fun.",
+"use": "v2",
+"answer": "gather",
+"hint": "berkumpul mengumpulkan"
+},
+{
+"sentence": "He .... at the beautiful sunset over the ocean.",
+"use": "v1",
+"answer": "gaze",
+"hint": "menatap memandang"
+},
+{
+"sentence": "The stars .... in the night sky during the camping trip.",
+"use": "v2",
+"answer": "glow",
+"hint": "bersinar bercahaya"
+},
+{
+"sentence": "She .... the poster to the wall with strong glue.",
+"use": "v1",
+"answer": "glue",
+"hint": "menempelkan merekatkan"
+},
+{
+"sentence": "The thief .... the purse from the table swiftly.",
+"use": "v2",
+"answer": "grab",
+"hint": "merebut mengambil"
+},
+{
+"sentence": "The chef .... the cheese for the pizza topping.",
+"use": "v1",
+"answer": "grate",
+"hint": "memarut"
+},
+{
+"sentence": "He .... the bike chain with oil to make it smooth.",
+"use": "v2",
+"answer": "grease",
+"hint": "meminyaki melumasi"
+},
+{
+"sentence": "We .... our guests at the door with smiles.",
+"use": "v1",
+"answer": "greet",
+"hint": "menyambut menyapa"
+},
+{
+"sentence": "She .... when she saw the surprise party.",
+"use": "v2",
+"answer": "grin",
+"hint": "menyeringai tersenyum lebar"
+},
+{
+"sentence": "He .... the rope tightly during the tug of war.",
+"use": "v1",
+"answer": "grip",
+"hint": "menggenggam mencengkam"
+},
+{
+"sentence": "The patient .... in pain during the night.",
+"use": "v2",
+"answer": "groan",
+"hint": "mengerang merintih"
+},
+{
+"sentence": "The company .... satisfaction or your money back guarantee.",
+"use": "v1",
+"answer": "guarantee",
+"hint": "menjamin"
+},
+{
+"sentence": "The dog .... the house from intruders at night.",
+"use": "v2",
+"answer": "guard",
+"hint": "menjaga mengawal"
+},
+{
+"sentence": "I .... the number correctly on the first try.",
+"use": "v1",
+"answer": "guess",
+"hint": "menebak menerka"
+},
+{
+"sentence": "The tour guide .... us through the museum exhibits.",
+"use": "v2",
+"answer": "guide",
+"hint": "membimbing"
+},
+{
+"sentence": "He .... the nail into the wood with force.",
+"use": "v1",
+"answer": "hammer",
+"hint": "memalu"
+},
+{
+"sentence": "She .... the keys to her brother for the car.",
+"use": "v2",
+"answer": "hand",
+"hint": "menyerahkan mengulurkan"
+},
+{
+"sentence": "The manager .... the situation calmly and efficiently.",
+"use": "v1",
+"answer": "handle",
+"hint": "menangani"
+},
+{
+"sentence": "The picture .... on the wall for years.",
+"use": "v2",
+"answer": "hang",
+"hint": "menggantung"
+},
+{
+"sentence": "It .... to rain suddenly in the afternoon.",
+"use": "v1",
+"answer": "happen",
+"hint": "terjadi"
+},
+{
+"sentence": "The calls .... the employee at work daily.",
+"use": "v2",
+"answer": "harass",
+"hint": "mengganggu menggoda melecehkan"
+},
+{
+"sentence": "The noise .... my concentration during study.",
+"use": "v1",
+"answer": "harm",
+"hint": "membahayakan merusak"
+},
+{
+"sentence": "I .... spiders more than anything.",
+"use": "v2",
+"answer": "hate",
+"hint": "benci"
+},
+{
+"sentence": "The ghost .... the old mansion for centuries.",
+"use": "v1",
+"answer": "haunt",
+"hint": "menghantui"
+},
+{
+"sentence": "The group .... towards the mountain at dawn.",
+"use": "v2",
+"answer": "head",
+"hint": "menuju memimpin"
+},
+{
+"sentence": "The medicine .... my wound quickly and effectively.",
+"use": "v1",
+"answer": "heal",
+"hint": "sembuh menyembuhkan"
+},
+{
+"sentence": "She .... the clothes in the closet in a pile.",
+"use": "v2",
+"answer": "heap",
+"hint": "menumpuk"
+},
+{
+"sentence": "We .... the water for tea in the kitchen.",
+"use": "v1",
+"answer": "heat",
+"hint": "memanaskan"
+},
+{
+"sentence": "She has .... me with my homework every evening.",
+"use": "v3",
+"answer": "help",
+"hint": "menolong membantu"
+},
+{
+"sentence": "He .... the picture on the wall securely.",
+"use": "v2",
+"answer": "hook",
+"hint": "mengaitkan menghubungkan"
+},
+{
+"sentence": "The kangaroo .... across the field quickly.",
+"use": "v1",
+"answer": "hop",
+"hint": "lompat loncat"
+},
+{
+"sentence": "I .... for a good result in the exam.",
+"use": "v2",
+"answer": "hope",
+"hint": "berharap"
+},
+{
+"sentence": "The helicopter .... above the city during the event.",
+"use": "v1",
+"answer": "hover",
+"hint": "melayang"
+},
+{
+"sentence": "She .... her child tightly in her arms.",
+"use": "v2",
+"answer": "hug",
+"hint": "memeluk"
+},
+{
+"sentence": "The bee .... around the flower in the garden.",
+"use": "v1",
+"answer": "hum",
+"hint": "berdengung bersenandung"
+},
+{
+"sentence": "They .... for deer in the forest during season.",
+"use": "v2",
+"answer": "hunt",
+"hint": "berburu"
+},
+{
+"sentence": "We .... to finish the project before deadline.",
+"use": "v1",
+"answer": "hurry",
+"hint": "mempercepat buru-buru"
+},
+{
+"sentence": "The detective .... the suspect based on evidence.",
+"use": "v2",
+"answer": "identify",
+"hint": "mengidentifikasi"
+},
+{
+"sentence": "Don't .... the warning signs on the road.",
+"use": "v1",
+"answer": "ignore",
+"hint": "mengabaikan"
+},
+{
+"sentence": "Children .... being superheroes in their dreams.",
+"use": "v2",
+"answer": "imagine",
+"hint": "membayangkan"
+},
+{
+"sentence": "The speech .... the audience with its power.",
+"use": "v1",
+"answer": "impress",
+"hint": "mengesankan"
+},
+{
+"sentence": "The team has .... their performance over the season.",
+"use": "v3",
+"answer": "improve",
+"hint": "membaik"
+},
+{
+"sentence": "The price .... the tax and shipping.",
+"use": "v2",
+"answer": "include",
+"hint": "termasuk memasukkan"
+},
+{
+"sentence": "Sales .... during the holiday season every year.",
+"use": "v1",
+"answer": "increase",
+"hint": "meningkat"
+},
+{
+"sentence": "Music .... my mood positively.",
+"use": "v2",
+"answer": "influence",
+"hint": "mempengaruhi"
+},
+{
+"sentence": "He .... me about the event via email.",
+"use": "v1",
+"answer": "inform",
+"hint": "memberitahu"
+},
+{
+"sentence": "The doctor .... the vaccine into the arm.",
+"use": "v2",
+"answer": "inject",
+"hint": "menyuntik"
+},
+{
+"sentence": "The accident .... several people seriously.",
+"use": "v1",
+"answer": "injure",
+"hint": "melukai"
+},
+{
+"sentence": "The teacher .... the students on the topic clearly.",
+"use": "v2",
+"answer": "instruct",
+"hint": "memerintahkan"
+},
+{
+"sentence": "I .... to visit Paris next year with family.",
+"use": "v1",
+"answer": "intend",
+"hint": "bermaksud berniat"
+},
+{
+"sentence": "This topic .... me a lot in my studies.",
+"use": "v2",
+"answer": "interest",
+"hint": "menarik"
+},
+{
+"sentence": "Don't .... in other people's affairs without invitation.",
+"use": "v1",
+"answer": "interfere",
+"hint": "mengganggu mencampuri"
+},
+{
+"sentence": "He .... the conversation abruptly during the meeting.",
+"use": "v2",
+"answer": "interrupt",
+"hint": "menyela memotong"
+},
+{
+"sentence": "She .... her new friend to the group at the party.",
+"use": "v1",
+"answer": "introduce",
+"hint": "memperkenalkan"
+},
+{
+"sentence": "Thomas Edison .... the light bulb in 1879.",
+"use": "v2",
+"answer": "invent",
+"hint": "menciptakan menemukan"
+},
+{
+"sentence": "We .... our neighbors to the barbecue next week.",
+"use": "v1",
+"answer": "invite",
+"hint": "mengundang"
+},
+{
+"sentence": "The joke .... my skin a bit.",
+"use": "v2",
+"answer": "irritate",
+"hint": "menjengkelkan mjd gatal"
+},
+{
+"sentence": "The mosquito bite .... all night long.",
+"use": "v1",
+"answer": "itch",
+"hint": "membuat gatal"
+},
+{
+"sentence": "The police .... the criminal after the trial.",
+"use": "v2",
+"answer": "jail",
+"hint": "memenjarakan"
+},
+{
+"sentence": "The door .... during the rush hour traffic.",
+"use": "v1",
+"answer": "jam",
+"hint": "menjejal macet sesak"
+},
+{
+"sentence": "He .... in the morning for exercise regularly.",
+"use": "v2",
+"answer": "jog",
+"hint": "lari pelan bersinggungan"
+},
+{
+"sentence": "We .... the club to participate in events and activities.",
+"use": "v1",
+"answer": "join",
+"hint": "bergabung"
+},
+{
+"sentence": "They .... about the funny incident at school.",
+"use": "v2",
+"answer": "joke",
+"hint": "bercanda bergurau"
+},
+{
+"sentence": "Don't .... others based on appearance alone.",
+"use": "v1",
+"answer": "judge",
+"hint": "menghakimi menilai"
+},
+{
+"sentence": "The clown .... with balls at the circus.",
+"use": "v2",
+"answer": "juggle",
+"hint": "menyulap menipu"
+},
+{
+"sentence": "The cat .... over the fence effortlessly.",
+"use": "v1",
+"answer": "jump",
+"hint": "melompat"
+},
+{
+"sentence": "He .... the ball hard during the match.",
+"use": "v2",
+"answer": "kick",
+"hint": "menendang"
+},
+{
+"sentence": "The villain .... the hero in the movie.",
+"use": "v1",
+"answer": "kill",
+"hint": "membunuh"
+},
+{
+"sentence": "She .... her boyfriend on the cheek gently.",
+"use": "v2",
+"answer": "kiss",
+"hint": "mencium"
+},
+{
+"sentence": "He .... in prayer at the church every Sunday.",
+"use": "v1",
+"answer": "kneel",
+"hint": "berlutut bersujud"
+},
+{
+"sentence": "She .... a sweater for winter with wool.",
+"use": "v2",
+"answer": "knit",
+"hint": "merajut"
+},
+{
+"sentence": "Please .... on the door before entering the room.",
+"use": "v1",
+"answer": "knock",
+"hint": "mengetuk"
+},
+{
+"sentence": "He .... the rope securely around the package.",
+"use": "v2",
+"answer": "knot",
+"hint": "menyimpul"
+},
+{
+"sentence": "The package .... 'fragile' on the box.",
+"use": "v1",
+"answer": "label",
+"hint": "menamai"
+},
+{
+"sentence": "The plane .... safely after the turbulence.",
+"use": "v2",
+"answer": "land",
+"hint": "mendarat"
+},
+{
+"sentence": "We .... at the funny joke during dinner.",
+"use": "v1",
+"answer": "laugh",
+"hint": "tertawa"
+},
+{
+"sentence": "They .... a new satellite into space.",
+"use": "v2",
+"answer": "launch",
+"hint": "meluncurkan"
+},
+{
+"sentence": "I .... a new language every year for fun.",
+"use": "v1",
+"answer": "learn",
+"hint": "mempelajari"
+},
+{
+"sentence": "The dog .... my hand affectionately.",
+"use": "v2",
+"answer": "lick",
+"hint": "menjilat"
+},
+{
+"sentence": "He .... about his age to get the job.",
+"use": "v1",
+"answer": "lie",
+"hint": "berbohong"
+},
+{
+"sentence": "The load .... the truck for the trip.",
+"use": "v2",
+"answer": "lighten",
+"hint": "meringankan"
+},
+{
+"sentence": "I .... chocolate ice cream the most.",
+"use": "v1",
+"answer": "like",
+"hint": "suka"
+},
+{
+"sentence": "She .... the items on the paper carefully.",
+"use": "v2",
+"answer": "list",
+"hint": "mendaftar"
+},
+{
+"sentence": "We .... to music while working on the project.",
+"use": "v1",
+"answer": "listen",
+"hint": "mendengar"
+},
+{
+"sentence": "They .... in the countryside for peace.",
+"use": "v2",
+"answer": "live",
+"hint": "hidup tinggal"
+},
+{
+"sentence": "The truck .... the cargo for delivery.",
+"use": "v1",
+"answer": "load",
+"hint": "memuat"
+},
+{
+"sentence": "She .... the door before leaving the house.",
+"use": "v2",
+"answer": "lock",
+"hint": "mengunci"
+},
+{
+"sentence": "I .... for my hometown during holidays.",
+"use": "v1",
+"answer": "long",
+"hint": "merindukan"
+},
+{
+"sentence": "He .... out the window to see the view.",
+"use": "v2",
+"answer": "look",
+"hint": "melihat"
+},
+{
+"sentence": "She .... her job a lot.",
+"use": "v1",
+"answer": "love",
+"hint": "mencintai"
+},
+{
+"sentence": "He has .... the team effectively for years.",
+"use": "v3",
+"answer": "manage",
+"hint": "mengelola"
+},
+{
+"sentence": "The soldiers .... in formation during the parade.",
+"use": "v2",
+"answer": "march",
+"hint": "berbaris"
+},
+{
+"sentence": "She .... the important dates on the calendar daily.",
+"use": "v1",
+"answer": "mark",
+"hint": "menandai"
+},
+{
+"sentence": "They .... last year in a beautiful ceremony.",
+"use": "v2",
+"answer": "marry",
+"hint": "menikah"
+},
+{
+"sentence": "The socks .... perfectly with the shoes.",
+"use": "v1",
+"answer": "match",
+"hint": "cocok"
+},
+{
+"sentence": "The animals .... in the spring season.",
+"use": "v2",
+"answer": "mate",
+"hint": "kawin (binatang)"
+},
+{
+"sentence": "It .... a lot to me in my life.",
+"use": "v1",
+"answer": "matter",
+"hint": "berarti"
+},
+{
+"sentence": "We .... the length of the room accurately.",
+"use": "v2",
+"answer": "measure",
+"hint": "mengukur"
+},
+{
+"sentence": "Don't .... in other people's business ever.",
+"use": "v1",
+"answer": "meddle",
+"hint": "ikut campur"
+},
+{
+"sentence": "The ice .... in the sun during summer.",
+"use": "v2",
+"answer": "melt",
+"hint": "meleleh"
+},
+{
+"sentence": "I .... the poem for the test last night.",
+"use": "v1",
+"answer": "memorise",
+"hint": "menghafal"
+},
+{
+"sentence": "He .... the broken chair with tools.",
+"use": "v2",
+"answer": "mend",
+"hint": "memperbaiki menambal"
+},
+{
+"sentence": "I .... my old friend a lot.",
+"use": "v1",
+"answer": "miss",
+"hint": "kangen"
+},
+{
+"sentence": "They .... gold in the mountain mine.",
+"use": "v2",
+"answer": "mine",
+"hint": "menambang"
+},
+{
+"sentence": "The chef .... the ingredients for the sauce carefully.",
+"use": "v1",
+"answer": "mix",
+"hint": "mencampur"
+},
+{
+"sentence": "The patient .... in pain all night.",
+"use": "v2",
+"answer": "moan",
+"hint": "mengerang merintih"
+},
+{
+"sentence": "The boat .... at the dock for the night.",
+"use": "v1",
+"answer": "moor",
+"hint": "merapat (kapal)"
+},
+{
+"sentence": "The family .... the loss of their pet sadly.",
+"use": "v2",
+"answer": "mourn",
+"hint": "meratapi berkabung"
+},
+{
+"sentence": "We .... to a new city last year.",
+"use": "v1",
+"answer": "move",
+"hint": "pindah"
+},
+{
+"sentence": "He .... the facts in his report intentionally.",
+"use": "v2",
+"answer": "muddle",
+"hint": "menjadikan kacau"
+},
+{
+"sentence": "The thief .... the old lady in the alley.",
+"use": "v1",
+"answer": "mug",
+"hint": "merampok menodong menghafal"
+},
+{
+"sentence": "We .... the numbers to get the total sum.",
+"use": "v2",
+"answer": "multiply",
+"hint": "mengalikan"
+},
+{
+"sentence": "The killer .... the victim in the dark.",
+"use": "v1",
+"answer": "murder",
+"hint": "membunuh"
+},
+{
+"sentence": "He .... the board with a hammer hard.",
+"use": "v2",
+"answer": "nail",
+"hint": "memaku"
+},
+{
+"sentence": "They .... the baby after his grandfather's name.",
+"use": "v1",
+"answer": "name",
+"hint": "menamai"
+},
+{
+"sentence": "I .... help with this problem urgently.",
+"use": "v2",
+"answer": "need",
+"hint": "membutuhkan"
+},
+{
+"sentence": "The birds .... in the tree during spring.",
+"use": "v1",
+"answer": "nest",
+"hint": "bersarang"
+},
+{
+"sentence": "She .... in agreement with the plan.",
+"use": "v2",
+"answer": "nod",
+"hint": "mengangguk memberi isyarat"
+},
+{
+"sentence": "I .... the important dates in my notebook daily.",
+"use": "v1",
+"answer": "note",
+"hint": "mencatat"
+},
+{
+"sentence": "Did you .... the change in weather patterns?",
+"use": "v2",
+"answer": "notice",
+"hint": "memperhatikan"
+},
+{
+"sentence": "The class .... 30 students this year.",
+"use": "v1",
+"answer": "number",
+"hint": "berjumlah"
+},
+{
+"sentence": "Children .... their parents at home.",
+"use": "v2",
+"answer": "obey",
+"hint": "mematuhi menaati"
+},
+{
+"sentence": "I .... to the proposal strongly.",
+"use": "v1",
+"answer": "object",
+"hint": "keberatan menolak"
+},
+{
+"sentence": "Scientists .... the stars through telescopes nightly.",
+"use": "v2",
+"answer": "observe",
+"hint": "mengamati"
+},
+{
+"sentence": "She has .... the degree from the university with honors.",
+"use": "v3",
+"answer": "obtain",
+"hint": "memperoleh"
+},
+{
+"sentence": "The event .... last week unexpectedly.",
+"use": "v1",
+"answer": "occur",
+"hint": "terjadi"
+},
+{
+"sentence": "His comment .... me deeply during the conversation.",
+"use": "v2",
+"answer": "offend",
+"hint": "menyinggung menyakiti hati"
+},
+{
+"sentence": "We .... a discount on the product online.",
+"use": "v1",
+"answer": "offer",
+"hint": "menawarkan"
+},
+{
+"sentence": "She .... the box carefully to see inside.",
+"use": "v2",
+"answer": "open",
+"hint": "membuka"
+},
+{
+"sentence": "I .... food from the restaurant for dinner.",
+"use": "v1",
+"answer": "order",
+"hint": "memesan memerintah"
+},
+{
+"sentence": "The river .... during the heavy rain.",
+"use": "v2",
+"answer": "overflow",
+"hint": "meluap melimpah"
+},
+{
+"sentence": "He .... me money for the car loan.",
+"use": "v1",
+"answer": "owe",
+"hint": "berhutang"
+},
+{
+"sentence": "I .... a new bike for my birthday.",
+"use": "v2",
+"answer": "own",
+"hint": "memiliki"
+},
+{
+"sentence": "She .... her bags for the trip carefully.",
+"use": "v1",
+"answer": "pack",
+"hint": "mengepak"
+},
+{
+"sentence": "They .... the canoe on the lake during vacation.",
+"use": "v2",
+"answer": "paddle",
+"hint": "mendayung"
+},
+{
+"sentence": "He .... the wall blue in his room.",
+"use": "v1",
+"answer": "paint",
+"hint": "mengecat melukis"
+},
+{
+"sentence": "The car .... in the garage overnight.",
+"use": "v2",
+"answer": "park",
+"hint": "memarkir"
+},
+{
+"sentence": "She .... the exam with high scores and honors.",
+"use": "v1",
+"answer": "pass",
+"hint": "lulus melewati"
+},
+{
+"sentence": "He .... the poster on the wall with tape.",
+"use": "v2",
+"answer": "paste",
+"hint": "menempel melekatkan"
+},
+{
+"sentence": "The cat .... my leg gently for attention.",
+"use": "v1",
+"answer": "pat",
+"hint": "menepuk"
+},
+{
+"sentence": "The movie .... for a moment during the ad.",
+"use": "v2",
+"answer": "pause",
+"hint": "berhenti sebentar"
+},
+{
+"sentence": "The bird .... at the bread on the ground.",
+"use": "v1",
+"answer": "peck",
+"hint": "mematuk"
+},
+{
+"sentence": "He .... the bike up the hill with effort.",
+"use": "v2",
+"answer": "pedal",
+"hint": "mengayuh"
+},
+{
+"sentence": "She .... the orange before eating it.",
+"use": "v1",
+"answer": "peel",
+"hint": "mengupas"
+},
+{
+"sentence": "The child .... through the window curiously.",
+"use": "v2",
+"answer": "peep",
+"hint": "mengintip"
+},
+{
+"sentence": "The law .... smoking in public places strictly.",
+"use": "v1",
+"answer": "permit",
+"hint": "mengizinkan"
+},
+{
+"sentence": "He .... my arm to get attention in the crowd.",
+"use": "v2",
+"answer": "pinch",
+"hint": "mencubit menjepit"
+},
+{
+"sentence": "I .... for my lost keys desperately.",
+"use": "v1",
+"answer": "pine",
+"hint": "merindukan"
+},
+{
+"sentence": "We .... our vacation carefully with a budget.",
+"use": "v2",
+"answer": "plan",
+"hint": "berencana"
+},
+{
+"sentence": "They .... trees in the park for the environment.",
+"use": "v1",
+"answer": "plant",
+"hint": "menanam"
+},
+{
+"sentence": "The electrician .... the hole in the wall safely.",
+"use": "v2",
+"answer": "plug",
+"hint": "mengisi menyumbat"
+},
+{
+"sentence": "She .... a luxurious house in the city.",
+"use": "v1",
+"answer": "possess",
+"hint": "memiliki"
+},
+{
+"sentence": "The priest .... the sermon at the church.",
+"use": "v2",
+"answer": "preach",
+"hint": "berkhotbah"
+},
+{
+"sentence": "The needle .... my finger while sewing.",
+"use": "v1",
+"answer": "prick",
+"hint": "menusuk"
+},
+{
+"sentence": "He .... his opponent in the face during the fight.",
+"use": "v2",
+"answer": "punch",
+"hint": "meninju"
+},
+{
+"sentence": "The tire .... on the road due to nails.",
+"use": "v1",
+"answer": "puncture",
+"hint": "menusuk membocorkan"
+},
+{
+"sentence": "The teacher .... the student for cheating on the test.",
+"use": "v2",
+"answer": "punish",
+"hint": "menghukum"
+},
+{
+"sentence": "The detective .... the witness about the crime scene.",
+"use": "v1",
+"answer": "question",
+"hint": "menanyai mempersoalkan"
+},
+{
+"sentence": "People .... for the bus in the rain.",
+"use": "v2",
+"answer": "queue",
+"hint": "antre"
+},
+{
+"sentence": "She .... her hand to ask a question in class.",
+"use": "v1",
+"answer": "raise",
+"hint": "mengangkat menaikkan"
+},
+{
+"sentence": "I .... for the book on the high shelf.",
+"use": "v2",
+"answer": "reach",
+"hint": "menjangkau"
+},
+{
+"sentence": "He .... he was wrong after the argument.",
+"use": "v1",
+"answer": "realize",
+"hint": "sadar menyadari"
+},
+{
+"sentence": "She has .... a gift from her friend on birthday.",
+"use": "v3",
+"answer": "receive",
+"hint": "menerima"
+},
+{
+"sentence": "I .... him from school days.",
+"use": "v1",
+"answer": "recognize",
+"hint": "mengakui mengenal"
+},
+{
+"sentence": "The singer .... a new album last month.",
+"use": "v2",
+"answer": "record",
+"hint": "merekam"
+},
+{
+"sentence": "He .... the offer because it was low salary.",
+"use": "v1",
+"answer": "refuse",
+"hint": "menolak"
+},
+{
+"sentence": "She .... her decision later on.",
+"use": "v2",
+"answer": "regret",
+"hint": "menyesal"
+},
+{
+"sentence": "The king .... over the land for years peacefully.",
+"use": "v1",
+"answer": "reign",
+"hint": "memerintah menguasai"
+},
+{
+"sentence": "The committee .... the application due to errors.",
+"use": "v2",
+"answer": "reject",
+"hint": "menolak"
+},
+{
+"sentence": "Everyone .... at the good news about the victory.",
+"use": "v1",
+"answer": "rejoice",
+"hint": "bersuka cita"
+},
+{
+"sentence": "The prisoner .... from custody last night.",
+"use": "v2",
+"answer": "release",
+"hint": "melepas mengeluarkan"
+},
+{
+"sentence": "I .... on my team for support during the game.",
+"use": "v1",
+"answer": "rely",
+"hint": "bergantung mengandalkan"
+},
+{
+"sentence": "Only a few guests .... at the party after midnight.",
+"use": "v2",
+"answer": "remain",
+"hint": "tinggal bersisa"
+},
+{
+"sentence": "Please .... me to call later in the day.",
+"use": "v1",
+"answer": "remind",
+"hint": "mengingatkan"
+},
+{
+"sentence": "She .... a new dress for the occasion specially.",
+"use": "v2",
+"answer": "request",
+"hint": "meminta"
+},
+{
+"sentence": "The firefighters .... the cat from the tree safely.",
+"use": "v1",
+"answer": "rescue",
+"hint": "menyelamatkan"
+},
+{
+"sentence": "He .... from his job after 40 years of service.",
+"use": "v2",
+"answer": "retire",
+"hint": "mundur mengundurkan diri pensiun"
+},
+{
+"sentence": "The thief .... the bank in broad daylight.",
+"use": "v1",
+"answer": "rob",
+"hint": "merampok merampas"
+},
+{
+"sentence": "The baby .... in the crib gently.",
+"use": "v2",
+"answer": "rock",
+"hint": "bergoyang mengayun"
+},
+{
+"sentence": "The fruit .... on the ground after ripening.",
+"use": "v1",
+"answer": "rot",
+"hint": "membusuk"
+},
+{
+"sentence": "She .... her hands with soap after cooking.",
+"use": "v2",
+"answer": "rub",
+"hint": "menggosok"
+},
+{
+"sentence": "The fire .... the building to the ground.",
+"use": "v1",
+"answer": "ruin",
+"hint": "menghancurkan"
+},
+{
+"sentence": "The queen .... the country wisely for decades.",
+"use": "v2",
+"answer": "rule",
+"hint": "memerintah menguasai"
+},
+{
+"sentence": "We .... to the store for groceries in a hurry.",
+"use": "v1",
+"answer": "rush",
+"hint": "bergegas menyerbu"
+},
+{
+"sentence": "He .... money for the trip over months.",
+"use": "v2",
+"answer": "save",
+"hint": "menyimpan"
+},
+{
+"sentence": "The letter .... with a stamp and seal.",
+"use": "v1",
+"answer": "seal",
+"hint": "menyegel menutup"
+},
+{
+"sentence": "They .... for the lost keys in the house.",
+"use": "v2",
+"answer": "search",
+"hint": "mencari"
+},
+{
+"sentence": "The waiter .... the food hot.",
+"use": "v1",
+"answer": "serve",
+"hint": "melayani"
+},
+{
+"sentence": "He .... his beard every morning before work.",
+"use": "v2",
+"answer": "shave",
+"hint": "mencukur"
+},
+{
+"sentence": "The cold .... me during the winter night.",
+"use": "v1",
+"answer": "shiver",
+"hint": "menggigil"
+},
+{
+"sentence": "The flower .... nice in the garden.",
+"use": "v2",
+"answer": "smell",
+"hint": "mencium berbau"
+},
+{
+"sentence": "The mouse .... when the cat approached closely.",
+"use": "v1",
+"answer": "squeak",
+"hint": "mencicit memekik"
+},
+{
+"sentence": "She .... at the handsome man across the room.",
+"use": "v2",
+"answer": "stare",
+"hint": "menatap memandang"
+},
+{
+"sentence": "We .... about the weather over coffee.",
+"use": "v1",
+"answer": "talk",
+"hint": "berbicara"
+},
+{
+"sentence": "The trainer .... the wild horse with patience.",
+"use": "v2",
+"answer": "tame",
+"hint": "menjinakkan"
+},
+{
+"sentence": "I .... the food before eating to check.",
+"use": "v1",
+"answer": "taste",
+"hint": "merasakan mencicipi rasanya"
+},
+{
+"sentence": "Don't .... me with candy offers.",
+"use": "v2",
+"answer": "tempt",
+"hint": "menggoda"
+},
+{
+"sentence": "The horror movie .... the children at night.",
+"use": "v1",
+"answer": "terrify",
+"hint": "menakuti"
+},
+{
+"sentence": "The ice .... in the warm water quickly.",
+"use": "v2",
+"answer": "thaw",
+"hint": "mencair"
+},
+{
+"sentence": "He .... the box on the form correctly.",
+"use": "v1",
+"answer": "tick",
+"hint": "mencentang"
+},
+{
+"sentence": "The feather .... my nose making me laugh.",
+"use": "v2",
+"answer": "tickle",
+"hint": "menggelitik menyenangkan"
+},
+{
+"sentence": "She .... the knot tightly on the package.",
+"use": "v1",
+"answer": "tie",
+"hint": "mengikat"
+},
+{
+"sentence": "He .... the waiter after the meal generously.",
+"use": "v2",
+"answer": "tip",
+"hint": "menyentuh"
+},
+{
+"sentence": "The truck .... the car to the garage nearby.",
+"use": "v1",
+"answer": "tow",
+"hint": "menderek menggandeng"
+},
+{
+"sentence": "The detective .... the suspect through records.",
+"use": "v2",
+"answer": "trace",
+"hint": "melacak menjiplak"
+},
+{
+"sentence": "They .... goods with other countries internationally.",
+"use": "v1",
+"answer": "trade",
+"hint": "berdagang"
+},
+{
+"sentence": "The hunter .... the animal in the forest trap.",
+"use": "v2",
+"answer": "trap",
+"hint": "menjebak memerangkap"
+},
+{
+"sentence": "We .... our guests with respect and hospitality.",
+"use": "v1",
+"answer": "treat",
+"hint": "memperlakukan traktir"
+},
+{
+"sentence": "His hands .... from the cold wind.",
+"use": "v2",
+"answer": "tremble",
+"hint": "bergetar gemetar"
+},
+{
+"sentence": "The horse .... along the path in the field.",
+"use": "v1",
+"answer": "trot",
+"hint": "berderap berlari kecil"
+},
+{
+"sentence": "He .... the rope to pull the box up.",
+"use": "v2",
+"answer": "tug",
+"hint": "menarik"
+},
+{
+"sentence": "The child .... down the stairs accidentally.",
+"use": "v1",
+"answer": "tumble",
+"hint": "jatuh terguling"
+},
+{
+"sentence": "She .... the wire to make a bracelet beautifully.",
+"use": "v2",
+"answer": "twist",
+"hint": "memutar"
+},
+{
+"sentence": "I .... the report on the computer fast.",
+"use": "v1",
+"answer": "type",
+"hint": "mengetik"
+},
+{
+"sentence": "We .... the new recipe at home.",
+"use": "v2",
+"answer": "try",
+"hint": "mencoba"
+},
+{
+"sentence": "She .... her clothes after the party late at night.",
+"use": "v1",
+"answer": "undress",
+"hint": "meninggalkan pakaian"
+},
+{
+"sentence": "He .... the seatbelt before driving the car.",
+"use": "v2",
+"answer": "unfasten",
+"hint": "membuka melepas"
+},
+{
+"sentence": "The countries .... for peace after the war.",
+"use": "v1",
+"answer": "unite",
+"hint": "menyatukan mempersatukan"
+},
+{
+"sentence": "I .... the door with the key in the dark.",
+"use": "v2",
+"answer": "unlock",
+"hint": "membuka kunci"
+},
+{
+"sentence": "She .... her suitcase after the trip tiredly.",
+"use": "v1",
+"answer": "unpack",
+"hint": "membongkar"
+},
+{
+"sentence": "We .... the new app for shopping online.",
+"use": "v2",
+"answer": "use",
+"hint": "menggunakan"
+},
+{
+"sentence": "The magician .... from the stage in smoke.",
+"use": "v1",
+"answer": "vanish",
+"hint": "lenyap menghilang"
+},
+{
+"sentence": "They .... the museum last weekend with family.",
+"use": "v2",
+"answer": "visit",
+"hint": "mengunjungi"
+},
+{
+"sentence": "The child .... for his mother in the crowd.",
+"use": "v1",
+"answer": "wail",
+"hint": "meratap meraung"
+},
+{
+"sentence": "We .... for the bus in the rain.",
+"use": "v2",
+"answer": "wait",
+"hint": "menunggu"
+},
+{
+"sentence": "She .... to the store every morning.",
+"use": "v1",
+"answer": "walk",
+"hint": "berjalan"
+},
+{
+"sentence": "I .... to go home after the party.",
+"use": "v2",
+"answer": "want",
+"hint": "ingin"
+},
+{
+"sentence": "He .... his hands after eating.",
+"use": "v1",
+"answer": "wash",
+"hint": "mencuci"
+},
+{
+"sentence": "Don't .... time on useless things like that.",
+"use": "v2",
+"answer": "waste",
+"hint": "membuang"
+},
+{
+"sentence": "We .... the movie last night together.",
+"use": "v1",
+"answer": "watch",
+"hint": "menonton"
+},
+{
+"sentence": "The scale .... 70 kg accurately.",
+"use": "v2",
+"answer": "weigh",
+"hint": "menimbang"
+},
+{
+"sentence": "The child .... for toys in the store.",
+"use": "v1",
+"answer": "whine",
+"hint": "merengek"
+},
+{
+"sentence": "He .... the horse during the race.",
+"use": "v2",
+"answer": "whip",
+"hint": "mencambuk"
+},
+{
+"sentence": "The wind .... the leaves around the yard.",
+"use": "v1",
+"answer": "whirl",
+"hint": "berputar berbalik"
+},
+{
+"sentence": "She .... the secret in my ear softly.",
+"use": "v2",
+"answer": "whisper",
+"hint": "berbisik"
+},
+{
+"sentence": "He .... while walking to work.",
+"use": "v1",
+"answer": "whistle",
+"hint": "bersiul"
+},
+{
+"sentence": "She .... at me from across the room.",
+"use": "v2",
+"answer": "wink",
+"hint": "berkedip"
+},
+{
+"sentence": "I .... the table after dinner with a cloth.",
+"use": "v1",
+"answer": "wipe",
+"hint": "mengusap menyeka"
+},
+{
+"sentence": "The table .... under the weight of the books.",
+"use": "v2",
+"answer": "wobble",
+"hint": "bergetar bergoyang"
+},
+{
+"sentence": "She .... the gift in colorful paper nicely.",
+"use": "v1",
+"answer": "wrap",
+"hint": "membungkus"
+},
+{
+"sentence": "The storm .... the ship on the rocks.",
+"use": "v2",
+"answer": "wreck",
+"hint": "menghancurkan merusak"
+},
+{
+"sentence": "The brothers .... for fun in the yard.",
+"use": "v1",
+"answer": "wrestle",
+"hint": "bergulat"
+},
+{
+"sentence": "The worm .... in the soil to escape.",
+"use": "v2",
+"answer": "wriggle",
+"hint": "meliuk"
+},
+{
+"sentence": "He .... in the morning after waking up.",
+"use": "v1",
+"answer": "yawn",
+"hint": "menguap"
+},
+{
+"sentence": "The coach .... at the team during the game.",
+"use": "v2",
+"answer": "yell",
+"hint": "berteriak"
+},
+{
+"sentence": "She .... the zipper on her jacket quickly.",
+"use": "v1",
+"answer": "zip",
+"hint": "menutup risleting"
+},
+{
+"sentence": "The camera .... in on the detail during the shot.",
+"use": "v2",
+"answer": "zoom",
+"hint": "memperbesar"
+},
+{
+"sentence": "Problems .... unexpectedly in the project.",
+"use": "v1",
+"answer": "arise",
+"hint": "muncul"
+},
+{
+"sentence": "I .... early this morning from a dream.",
+"use": "v2",
+"answer": "awake",
+"hint": "bangun"
+},
+{
+"sentence": "The baby .... crying in the crib.",
+"use": "v1",
+"answer": "be",
+"hint": "ada adalah"
+},
+{
+"sentence": "She has .... the burden alone for years.",
+"use": "v3",
+"answer": "bear",
+"hint": "menanggung"
+},
+{
+"sentence": "The team .... the opponent in the final.",
+"use": "v2",
+"answer": "beat",
+"hint": "mengalahkan/memukul"
+},
+{
+"sentence": "He .... a famous actor in Hollywood.",
+"use": "v1",
+"answer": "become",
+"hint": "menjadi"
+},
+{
+"sentence": "Misfortune .... the family suddenly.",
+"use": "v2",
+"answer": "befall",
+"hint": "menimpa"
+},
+{
+"sentence": "He has .... a son after many years.",
+"use": "v3",
+"answer": "beget",
+"hint": "menurunkan"
+},
+{
+"sentence": "The meeting .... at 9 AM sharp.",
+"use": "v1",
+"answer": "begin",
+"hint": "mulai"
+},
+{
+"sentence": "She .... the pipe to fit the space.",
+"use": "v2",
+"answer": "bend",
+"hint": "membengkokan"
+},
+{
+"sentence": "The family .... of their home in the fire.",
+"use": "v1",
+"answer": "bereave",
+"hint": "kehilangan"
+},
+{
+"sentence": "He .... for mercy from the judge.",
+"use": "v2",
+"answer": "beseech",
+"hint": "memohon"
+},
+{
+"sentence": "Problems .... the project from the start.",
+"use": "v1",
+"answer": "beset",
+"hint": "mengepung menimpa"
+},
+{
+"sentence": "She has .... the path with flowers for the wedding.",
+"use": "v3",
+"answer": "bestrew",
+"hint": "menabur/menganugerahi"
+},
+{
+"sentence": "I .... on the game outcome.",
+"use": "v1",
+"answer": "bet",
+"hint": "bertaruh"
+},
+{
+"sentence": "He .... himself to the mountains for peace.",
+"use": "v2",
+"answer": "betake",
+"hint": "pergi"
+},
+{
+"sentence": "She .... on the item at the auction high.",
+"use": "v1",
+"answer": "bid",
+"hint": "menawar/mengucapkan"
+},
+{
+"sentence": "The ropes .... the sail to the mast securely.",
+"use": "v2",
+"answer": "bind",
+"hint": "mengikat"
+},
+{
+"sentence": "The dog .... the thief in the leg.",
+"use": "v1",
+"answer": "bite",
+"hint": "menggigit"
+},
+{
+"sentence": "The wound .... profusely after the cut.",
+"use": "v2",
+"answer": "bleed",
+"hint": "berdarah"
+},
+{
+"sentence": "The wind .... the leaves away from the tree.",
+"use": "v1",
+"answer": "blow",
+"hint": "meniup"
+},
+{
+"sentence": "He .... the glass on the floor.",
+"use": "v2",
+"answer": "break",
+"hint": "memecahkan"
+},
+{
+"sentence": "They .... rabbits on the farm for sale.",
+"use": "v1",
+"answer": "breed",
+"hint": "berkembang biak"
+},
+{
+"sentence": "She .... lunch for the family daily.",
+"use": "v2",
+"answer": "bring",
+"hint": "membawa"
+},
+{
+"sentence": "The station .... the news every hour.",
+"use": "v1",
+"answer": "broadcast",
+"hint": "menyiarkan"
+},
+{
+"sentence": "He .... the employee into submission with threats.",
+"use": "v2",
+"answer": "browbeat",
+"hint": "menggertak"
+},
+{
+"sentence": "We .... a new house last year.",
+"use": "v1",
+"answer": "build",
+"hint": "membangun"
+},
+{
+"sentence": "The fire .... the forest down.",
+"use": "v2",
+"answer": "burn",
+"hint": "membakar"
+},
+{
+"sentence": "The balloon .... suddenly in the party.",
+"use": "v1",
+"answer": "burst",
+"hint": "meledak"
+},
+{
+"sentence": "He .... the door open with force.",
+"use": "v2",
+"answer": "bust",
+"hint": "mendobrak"
+},
+{
+"sentence": "I .... a new phone yesterday.",
+"use": "v1",
+"answer": "buy",
+"hint": "membeli"
+},
+{
+"sentence": "She has .... her vote in the election wisely.",
+"use": "v3",
+"answer": "cast",
+"hint": "melempar memberikan peran"
+},
+{
+"sentence": "The fisherman .... a big fish in the lake.",
+"use": "v1",
+"answer": "catch",
+"hint": "menangkap"
+},
+{
+"sentence": "We .... the red team for the match.",
+"use": "v2",
+"answer": "choose",
+"hint": "memilih"
+},
+{
+"sentence": "The vine .... to the wall firmly.",
+"use": "v1",
+"answer": "cling",
+"hint": "berpegang teguh"
+},
+{
+"sentence": "The guests .... late to the party.",
+"use": "v2",
+"answer": "come",
+"hint": "datang"
+},
+{
+"sentence": "The book .... 20 dollars at the store.",
+"use": "v1",
+"answer": "cost",
+"hint": "harganya berharga"
+},
+{
+"sentence": "The baby .... on the floor slowly.",
+"use": "v2",
+"answer": "creep",
+"hint": "merangkak"
+},
+{
+"sentence": "She .... the paper in half neatly.",
+"use": "v1",
+"answer": "cut",
+"hint": "memotong mengiris"
+},
+{
+"sentence": "We .... with the problem effectively.",
+"use": "v2",
+"answer": "deal",
+"hint": "berurusan"
+},
+{
+"sentence": "They .... a hole in the ground for the post.",
+"use": "v1",
+"answer": "dig",
+"hint": "menggali"
+},
+{
+"sentence": "He .... into the pool from the high board.",
+"use": "v2",
+"answer": "dive",
+"hint": "menyelam"
+},
+{
+"sentence": "I .... my homework every day.",
+"use": "v1",
+"answer": "do",
+"hint": "melakukan"
+},
+{
+"sentence": "She has .... a picture of the landscape.",
+"use": "v3",
+"answer": "draw",
+"hint": "menggambar"
+},
+{
+"sentence": "I .... of flying in my sleep.",
+"use": "v1",
+"answer": "dream",
+"hint": "bermimpi"
+},
+{
+"sentence": "He .... water from the glass.",
+"use": "v2",
+"answer": "drink",
+"hint": "minum"
+},
+{
+"sentence": "She .... the car to work daily.",
+"use": "v1",
+"answer": "drive",
+"hint": "mengendarai"
+},
+{
+"sentence": "They .... in the old house for years.",
+"use": "v2",
+"answer": "dwell",
+"hint": "tinggal menghuni"
+},
+{
+"sentence": "I .... lunch at noon.",
+"use": "v1",
+"answer": "eat",
+"hint": "makan"
+},
+{
+"sentence": "The apple .... from the tree onto the ground.",
+"use": "v2",
+"answer": "fall",
+"hint": "jatuh"
+},
+{
+"sentence": "We .... the birds in the winter season.",
+"use": "v1",
+"answer": "feed",
+"hint": "memberi makan"
+},
+{
+"sentence": "She .... happy after the news.",
+"use": "v2",
+"answer": "feel",
+"hint": "merasa"
+},
+{
+"sentence": "They .... for their rights in the protest.",
+"use": "v1",
+"answer": "fight",
+"hint": "berjuang berkelahi"
+},
+{
+"sentence": "I .... my keys in the bag.",
+"use": "v2",
+"answer": "find",
+"hint": "menemukan"
+},
+{
+"sentence": "The criminal .... the scene quickly.",
+"use": "v1",
+"answer": "flee",
+"hint": "melarikan diri"
+},
+{
+"sentence": "He .... the ball over the fence hard.",
+"use": "v2",
+"answer": "fling",
+"hint": "menjebloskan mengempaskan"
+},
+{
+"sentence": "Birds .... south in winter for warmth.",
+"use": "v1",
+"answer": "fly",
+"hint": "terbang"
+},
+{
+"sentence": "Parents .... bad behavior in children.",
+"use": "v2",
+"answer": "forbid",
+"hint": "melarang"
+},
+{
+"sentence": "The weather forecast .... rain for tomorrow.",
+"use": "v1",
+"answer": "forecast",
+"hint": "meramalkan"
+},
+{
+"sentence": "She .... the problem coming from afar.",
+"use": "v2",
+"answer": "foresee",
+"hint": "meramalkan"
+},
+{
+"sentence": "I .... my password again.",
+"use": "v1",
+"answer": "forget",
+"hint": "lupa"
+},
+{
+"sentence": "She .... her friend for the mistake kindly.",
+"use": "v2",
+"answer": "forgive",
+"hint": "memaafkan"
+},
+{
+"sentence": "He .... dessert to stay healthy and fit.",
+"use": "v1",
+"answer": "forgo",
+"hint": "meninggalkan kebiasaan"
+},
+{
+"sentence": "The friend .... him in his time of need sadly.",
+"use": "v2",
+"answer": "forsake",
+"hint": "meninggalkan"
+},
+{
+"sentence": "The lake .... in winter every year.",
+"use": "v1",
+"answer": "freeze",
+"hint": "membeku"
+},
+{
+"sentence": "I .... a new job last month.",
+"use": "v2",
+"answer": "get",
+"hint": "mendapatkan"
+},
+{
+"sentence": "She .... me a gift on my birthday.",
+"use": "v1",
+"answer": "give",
+"hint": "memberi"
+},
+{
+"sentence": "We .... to the store for shopping.",
+"use": "v2",
+"answer": "go",
+"hint": "pergi"
+},
+{
+"sentence": "The mill .... the wheat into flour daily.",
+"use": "v1",
+"answer": "grind",
+"hint": "menggerindra/menggiling"
+},
+{
+"sentence": "The plant .... tall in the sun.",
+"use": "v2",
+"answer": "grow",
+"hint": "tumbuh"
+},
+{
+"sentence": "The injury .... his movement for months.",
+"use": "v1",
+"answer": "hamstring",
+"hint": "melumpuhkan"
+},
+{
+"sentence": "The clothes .... on the line to dry in the sun.",
+"use": "v2",
+"answer": "hang",
+"hint": "menggantung"
+},
+{
+"sentence": "I .... a car for the family.",
+"use": "v1",
+"answer": "have",
+"hint": "mempunyai"
+},
+{
+"sentence": "She .... the news on the radio this morning.",
+"use": "v2",
+"answer": "hear",
+"hint": "mendengar"
+},
+{
+"sentence": "The cat .... behind the couch from the dog.",
+"use": "v1",
+"answer": "hide",
+"hint": "menyembunyikan"
+},
+{
+"sentence": "The ball .... the window hard.",
+"use": "v2",
+"answer": "hit",
+"hint": "memukul"
+},
+{
+"sentence": "The teacher .... the class meeting.",
+"use": "v1",
+"answer": "hold",
+"hint": "menahan mengadakan"
+},
+{
+"sentence": "The thorn .... my finger badly.",
+"use": "v2",
+"answer": "hurt",
+"hint": "menyakiti"
+},
+{
+"sentence": "The artist .... the wood with designs beautifully.",
+"use": "v1",
+"answer": "inlay",
+"hint": "menatah"
+},
+{
+"sentence": "The computer .... the data into the system.",
+"use": "v2",
+"answer": "input",
+"hint": "memasukkan"
+},
+{
+"sentence": "The movie .... scenes from the past and present.",
+"use": "v1",
+"answer": "intercut",
+"hint": "menyelingi"
+},
+{
+"sentence": "I .... the secret for years from everyone.",
+"use": "v2",
+"answer": "keep",
+"hint": "menjaga"
+},
+{
+"sentence": "He .... before the king in respect.",
+"use": "v1",
+"answer": "kneel",
+"hint": "berlutut bersujud"
+},
+{
+"sentence": "She .... the answer to the question immediately.",
+"use": "v2",
+"answer": "know",
+"hint": "mengetahui"
+},
+{
+"sentence": "She .... the egg on the table gently.",
+"use": "v1",
+"answer": "lay",
+"hint": "meletakkan"
+},
+{
+"sentence": "He .... the group to victory successfully.",
+"use": "v2",
+"answer": "lead",
+"hint": "memimpin"
+},
+{
+"sentence": "The tower .... against the wall for support.",
+"use": "v1",
+"answer": "lean",
+"hint": "menyandarkan"
+},
+{
+"sentence": "The frog .... over the lily pad in the pond.",
+"use": "v2",
+"answer": "leap",
+"hint": "lompat loncat"
+},
+{
+"sentence": "I .... a lot from the book about history.",
+"use": "v1",
+"answer": "learn",
+"hint": "belajar"
+},
+{
+"sentence": "She .... her job to travel.",
+"use": "v2",
+"answer": "leave",
+"hint": "meninggalkan"
+},
+{
+"sentence": "He .... me his book for the class.",
+"use": "v1",
+"answer": "lend",
+"hint": "meminjamkan"
+},
+{
+"sentence": "Let me .... you a story before bed.",
+"use": "v2",
+"answer": "let",
+"hint": "membiarkan"
+},
+{
+"sentence": "He .... on the bed tiredly.",
+"use": "v1",
+"answer": "lie",
+"hint": "berbohong berbaring"
+},
+{
+"sentence": "The candle .... the room softly.",
+"use": "v2",
+"answer": "light",
+"hint": "menerangi"
+},
+{
+"sentence": "I .... the game unfortunately.",
+"use": "v1",
+"answer": "lose",
+"hint": "kehilangan kalah"
+},
+{
+"sentence": "She .... a cake for the birthday.",
+"use": "v2",
+"answer": "make",
+"hint": "membuat"
+},
+{
+"sentence": "That .... trouble for us.",
+"use": "v1",
+"answer": "mean",
+"hint": "bermaksud"
+},
+{
+"sentence": "We .... at the party last night.",
+"use": "v2",
+"answer": "meet",
+"hint": "bertemu"
+},
+{
+"sentence": "I .... the keys somewhere in the house.",
+"use": "v1",
+"answer": "mislay",
+"hint": "salah meletakkan"
+},
+{
+"sentence": "The sign .... the drivers to the wrong way.",
+"use": "v2",
+"answer": "mislead",
+"hint": "menyesatkan"
+},
+{
+"sentence": "He .... the instructions and got lost.",
+"use": "v1",
+"answer": "misread",
+"hint": "salah membaca"
+},
+{
+"sentence": "She .... during the speech by accident.",
+"use": "v2",
+"answer": "misspeak",
+"hint": "salah bicara/ucap"
+},
+{
+"sentence": "I .... the word in the essay twice.",
+"use": "v1",
+"answer": "misspell",
+"hint": "salah mengeja"
+},
+{
+"sentence": "He .... the identity of the person.",
+"use": "v2",
+"answer": "mistake",
+"hint": "salah mengira"
+},
+{
+"sentence": "We .... the message completely.",
+"use": "v1",
+"answer": "misunderstand",
+"hint": "salah memahami"
+},
+{
+"sentence": "The gardener .... the lawn every week.",
+"use": "v2",
+"answer": "mow",
+"hint": "memotong rumput"
+},
+{
+"sentence": "The costs .... the benefits in the project.",
+"use": "v1",
+"answer": "offset",
+"hint": "mengimbangi"
+},
+{
+"sentence": "He .... me at the auction for the painting.",
+"use": "v2",
+"answer": "outbid",
+"hint": "mengalahkan dalam menawar"
+},
+{
+"sentence": "She .... her brother in the race easily.",
+"use": "v1",
+"answer": "outdo",
+"hint": "mengalahkan"
+},
+{
+"sentence": "The event .... a large crowd last year.",
+"use": "v2",
+"answer": "outdraw",
+"hint": "menarik lebih banyak orang"
+},
+{
+"sentence": "He .... me on the highway during the trip.",
+"use": "v1",
+"answer": "outdrive",
+"hint": "mengendarai lebih baik/lebih cepat"
+},
+{
+"sentence": "The hero .... the villain in the battle.",
+"use": "v2",
+"answer": "outfight",
+"hint": "mengalahkan dalam perkelahian"
+},
+{
+"sentence": "Children .... their shoes quickly.",
+"use": "v1",
+"answer": "outgrow",
+"hint": "menjadi lebih besar mengatasi"
+},
+{
+"sentence": "The computer .... the results fast.",
+"use": "v2",
+"answer": "output",
+"hint": "menghasilkan (data)"
+},
+{
+"sentence": "She .... the horse better than him in the race.",
+"use": "v1",
+"answer": "outride",
+"hint": "menunggangi lebih baik cepat dan jauh."
+},
+{
+"sentence": "He .... the dog easily in the chase.",
+"use": "v2",
+"answer": "outrun",
+"hint": "berlari lebih cepat"
+},
+{
+"sentence": "Our product .... the competition in sales.",
+"use": "v1",
+"answer": "outsell",
+"hint": "menjual lebih banyak"
+},
+{
+"sentence": "The sun .... the moon in brightness.",
+"use": "v2",
+"answer": "outshine",
+"hint": "lebih cemerlang"
+},
+{
+"sentence": "They .... a new garage next to the house.",
+"use": "v1",
+"answer": "overbuild",
+"hint": "membangun tambahan"
+},
+{
+"sentence": "She .... her fears with courage.",
+"use": "v2",
+"answer": "overcome",
+"hint": "mengatasi"
+},
+{
+"sentence": "Don't .... the food in the oven.",
+"use": "v1",
+"answer": "overdo",
+"hint": "melakukan sesuatu secara berlebihan"
+},
+{
+"sentence": "The branches .... the roof of the house.",
+"use": "v2",
+"answer": "overhang",
+"hint": "bergantung"
+},
+{
+"sentence": "I .... the conversation between them.",
+"use": "v1",
+"answer": "overhear",
+"hint": "menguping"
+},
+{
+"sentence": "The gold .... the wood beautifully.",
+"use": "v2",
+"answer": "overlay",
+"hint": "melapisi membebani"
+},
+{
+"sentence": "He .... for the service by mistake.",
+"use": "v1",
+"answer": "overpay",
+"hint": "membayar lebih banyak"
+},
+{
+"sentence": "The judge .... the decision of the jury.",
+"use": "v2",
+"answer": "override",
+"hint": "mengesampingkan menolak"
+},
+{
+"sentence": "The army .... the enemy camp at night.",
+"use": "v1",
+"answer": "overrun",
+"hint": "menyerbu mengerumuni"
+},
+{
+"sentence": "The supervisor .... the work of the team.",
+"use": "v2",
+"answer": "oversee",
+"hint": "mengawasi"
+},
+{
+"sentence": "I .... today and missed the bus.",
+"use": "v1",
+"answer": "oversleep",
+"hint": "bangun kesiangan"
+},
+{
+"sentence": "The car .... the truck on the road.",
+"use": "v2",
+"answer": "overtake",
+"hint": "menyusul mengejar"
+},
+{
+"sentence": "The rebels .... the government in the revolution.",
+"use": "v1",
+"answer": "overthrow",
+"hint": "menjatuhkan merobohkan"
+},
+{
+"sentence": "She .... the bill at the restaurant.",
+"use": "v2",
+"answer": "pay",
+"hint": "membayar"
+},
+{
+"sentence": "He has .... his innocence in court.",
+"use": "v3",
+"answer": "prove",
+"hint": "membuktikan"
+},
+{
+"sentence": "Put the book on the table carefully.",
+"use": "v1",
+"answer": "put",
+"hint": "meletakkan"
+},
+{
+"sentence": "She .... her job to start a business.",
+"use": "v2",
+"answer": "quit",
+"hint": "berhenti meninggalkan"
+},
+{
+"sentence": "I .... the book every night.",
+"use": "v1",
+"answer": "read",
+"hint": "membaca"
+},
+{
+"sentence": "The library .... the book with new cover.",
+"use": "v2",
+"answer": "rebind",
+"hint": "menjilid kembali"
+},
+{
+"sentence": "They .... the house after the fire damage.",
+"use": "v1",
+"answer": "rebuild",
+"hint": "membangun kembali"
+},
+{
+"sentence": "He .... the loan on time.",
+"use": "v2",
+"answer": "repay",
+"hint": "membayar kembali"
+},
+{
+"sentence": "She .... her plan after feedback.",
+"use": "v1",
+"answer": "rethink",
+"hint": "memikirkan kembali"
+},
+{
+"sentence": "I .... the tape to the beginning.",
+"use": "v2",
+"answer": "rewind",
+"hint": "mengulang ke awal"
+},
+{
+"sentence": "He .... the letter with corrections.",
+"use": "v1",
+"answer": "rewrite",
+"hint": "menulis kembali"
+},
+{
+"sentence": "The house .... of pests after cleaning.",
+"use": "v2",
+"answer": "rid",
+"hint": "membersihkan membuang"
+},
+{
+"sentence": "She .... the horse in the race.",
+"use": "v1",
+"answer": "ride",
+"hint": "naik menunggang"
+},
+{
+"sentence": "The phone .... loudly in the quiet room.",
+"use": "v2",
+"answer": "ring",
+"hint": "berdering membunyikan"
+},
+{
+"sentence": "The sun .... in the east every morning.",
+"use": "v1",
+"answer": "rise",
+"hint": "terbit"
+},
+{
+"sentence": "He .... to the store quickly.",
+"use": "v2",
+"answer": "run",
+"hint": "berlari menjalankan"
+},
+{
+"sentence": "The carpenter .... the wood into shape.",
+"use": "v1",
+"answer": "saw",
+"hint": "menggergaji"
+},
+{
+"sentence": "She .... goodbye to her friends.",
+"use": "v2",
+"answer": "say",
+"hint": "mengatakan"
+},
+{
+"sentence": "I .... the movie last night.",
+"use": "v1",
+"answer": "see",
+"hint": "melihat"
+},
+{
+"sentence": "They .... help from the teacher after class.",
+"use": "v2",
+"answer": "seek",
+"hint": "mencari"
+},
+{
+"sentence": "We .... the house for a good price.",
+"use": "v1",
+"answer": "sell",
+"hint": "menjual"
+},
+{
+"sentence": "He .... the letter by mail.",
+"use": "v2",
+"answer": "send",
+"hint": "mengirim"
+},
+{
+"sentence": "She .... the table for dinner.",
+"use": "v1",
+"answer": "set",
+"hint": "menaruh mengatur"
+},
+{
+"sentence": "The tailor .... the dress beautifully.",
+"use": "v2",
+"answer": "sew",
+"hint": "menjahit"
+},
+{
+"sentence": "He .... the bottle vigorously.",
+"use": "v1",
+"answer": "shake",
+"hint": "mengguncangkan mengocok"
+},
+{
+"sentence": "The farmer .... the sheep for wool.",
+"use": "v2",
+"answer": "shear",
+"hint": "mencukur"
+},
+{
+"sentence": "The rain .... tears of joy on her face.",
+"use": "v1",
+"answer": "shed",
+"hint": "menumpahkan"
+},
+{
+"sentence": "The star .... brightly in the sky.",
+"use": "v2",
+"answer": "shine",
+"hint": "bersinar bercahaya"
+},
+{
+"sentence": "The blacksmith .... the horse carefully.",
+"use": "v1",
+"answer": "shoe",
+"hint": "memasangi ladam"
+},
+{
+"sentence": "He .... the target accurately.",
+"use": "v2",
+"answer": "shoot",
+"hint": "menembak"
+},
+{
+"sentence": "She .... me the way to the station.",
+"use": "v1",
+"answer": "show",
+"hint": "menunjukkan"
+},
+{
+"sentence": "The fabric .... in the wash machine.",
+"use": "v2",
+"answer": "shrink",
+"hint": "menyusut"
+},
+{
+"sentence": "The door .... with a bang behind him.",
+"use": "v1",
+"answer": "shut",
+"hint": "menutup mengunci"
+},
+{
+"sentence": "She .... a beautiful song at the concert.",
+"use": "v2",
+"answer": "sing",
+"hint": "menyanyi"
+},
+{
+"sentence": "The ship .... in the storm last night.",
+"use": "v1",
+"answer": "sink",
+"hint": "menenggelamkan"
+},
+{
+"sentence": "He .... on the chair comfortably.",
+"use": "v2",
+"answer": "sit",
+"hint": "duduk"
+},
+{
+"sentence": "The knight .... the dragon in the tale.",
+"use": "v1",
+"answer": "slay",
+"hint": "membunuh"
+},
+{
+"sentence": "I .... well last night after the party.",
+"use": "v2",
+"answer": "sleep",
+"hint": "tidur"
+},
+{
+"sentence": "The sled .... down the hill fast.",
+"use": "v1",
+"answer": "slide",
+"hint": "meluncur"
+},
+{
+"sentence": "He .... the bag over his shoulder easily.",
+"use": "v2",
+"answer": "sling",
+"hint": "menyandang"
+},
+{
+"sentence": "The thief .... into the house at night.",
+"use": "v1",
+"answer": "slink",
+"hint": "menyelinap (masuk)"
+},
+{
+"sentence": "She .... the envelope open carefully.",
+"use": "v2",
+"answer": "slit",
+"hint": "menggorok membelah"
+},
+{
+"sentence": "The rose .... sweet in the morning.",
+"use": "v1",
+"answer": "smell",
+"hint": "mencium berbau"
+},
+{
+"sentence": "He .... the seeds in the field in spring.",
+"use": "v2",
+"answer": "sow",
+"hint": "menabur"
+},
+{
+"sentence": "She .... English fluently in meetings.",
+"use": "v1",
+"answer": "speak",
+"hint": "berbicara"
+},
+{
+"sentence": "The car .... up on the highway suddenly.",
+"use": "v2",
+"answer": "speed",
+"hint": "mempercepat"
+},
+{
+"sentence": "I .... your name correctly.",
+"use": "v1",
+"answer": "spell",
+"hint": "mengeja"
+},
+{
+"sentence": "He .... his money wisely on investments.",
+"use": "v2",
+"answer": "spend",
+"hint": "menghabiskan"
+},
+{
+"sentence": "She .... the milk on the table by accident.",
+"use": "v1",
+"answer": "spill",
+"hint": "menumpahkan"
+},
+{
+"sentence": "The top .... on the table fast.",
+"use": "v2",
+"answer": "spin",
+"hint": "memutar memusingkan"
+},
+{
+"sentence": "He .... on the ground in anger.",
+"use": "v1",
+"answer": "spit",
+"hint": "meludah"
+},
+{
+"sentence": "The cake .... into pieces for the guests.",
+"use": "v2",
+"answer": "split",
+"hint": "membagi membelah"
+},
+{
+"sentence": "The child .... his toy with care.",
+"use": "v1",
+"answer": "spoil",
+"hint": "merusak memanjakan"
+},
+{
+"sentence": "The news .... quickly across the city.",
+"use": "v2",
+"answer": "spread",
+"hint": "menyebar"
+},
+{
+"sentence": "The trap .... suddenly on the mouse.",
+"use": "v1",
+"answer": "spring",
+"hint": "membocorkan melompat"
+},
+{
+"sentence": "He .... up for his rights in the meeting.",
+"use": "v2",
+"answer": "stand",
+"hint": "berdiri"
+},
+{
+"sentence": "The thief .... the jewelry from the safe.",
+"use": "v1",
+"answer": "steal",
+"hint": "mencuri"
+},
+{
+"sentence": "The glue .... to the paper instantly.",
+"use": "v2",
+"answer": "stick",
+"hint": "menempelkan"
+},
+{
+"sentence": "The bee .... me on the arm.",
+"use": "v1",
+"answer": "sting",
+"hint": "menyengat"
+},
+{
+"sentence": "The room .... of smoke after the fire.",
+"use": "v2",
+"answer": "stink",
+"hint": "berbau busuk"
+},
+{
+"sentence": "He .... the puddle in one step.",
+"use": "v1",
+"answer": "stride",
+"hint": "melangkahi"
+},
+{
+"sentence": "The workers .... for better pay last month.",
+"use": "v2",
+"answer": "strike",
+"hint": "melanggar"
+},
+{
+"sentence": "She .... the lights on the tree for Christmas.",
+"use": "v1",
+"answer": "string",
+"hint": "menguntai memasang tali"
+},
+{
+"sentence": "We .... for success in our endeavors.",
+"use": "v2",
+"answer": "strive",
+"hint": "berjuang bekerja keras"
+},
+{
+"sentence": "He .... an oath in court.",
+"use": "v1",
+"answer": "swear",
+"hint": "bersumpah"
+},
+{
+"sentence": "The maid .... the floor clean.",
+"use": "v2",
+"answer": "sweep",
+"hint": "menyapu"
+},
+{
+"sentence": "Her ankle .... after the twist in the game.",
+"use": "v1",
+"answer": "swell",
+"hint": "membengkak"
+},
+{
+"sentence": "I .... in the pool every summer.",
+"use": "v2",
+"answer": "swim",
+"hint": "berenang"
+},
+{
+"sentence": "The child .... on the swing in the park.",
+"use": "v1",
+"answer": "swing",
+"hint": "mengayun"
+},
+{
+"sentence": "He .... the ball from me.",
+"use": "v2",
+"answer": "take",
+"hint": "mengambil"
+},
+{
+"sentence": "She .... English at the school.",
+"use": "v1",
+"answer": "teach",
+"hint": "mengajar"
+},
+{
+"sentence": "He .... the paper into pieces.",
+"use": "v2",
+"answer": "tear",
+"hint": "merobek mencabik"
+},
+{
+"sentence": "Tell me a story before sleep.",
+"use": "v1",
+"answer": "tell",
+"hint": "menceritakan mengatakan"
+},
+{
+"sentence": "I .... about it all night.",
+"use": "v2",
+"answer": "think",
+"hint": "berpikir"
+},
+{
+"sentence": "The business .... in the market well.",
+"use": "v1",
+"answer": "thrive",
+"hint": "berkembang"
+},
+{
+"sentence": "He .... the ball hard.",
+"use": "v2",
+"answer": "throw",
+"hint": "melempar"
+},
+{
+"sentence": "He .... the door open with force.",
+"use": "v1",
+"answer": "thrust",
+"hint": "mendorong memasukkan"
+},
+{
+"sentence": "She .... the path carefully to avoid slips.",
+"use": "v2",
+"answer": "tread",
+"hint": "menempuh menginjak"
+},
+{
+"sentence": "The store .... prices lower than competitors.",
+"use": "v1",
+"answer": "undercut",
+"hint": "menjual dgn harga lebih rendah"
+},
+{
+"sentence": "She has .... surgery for her injury.",
+"use": "v3",
+"answer": "undergo",
+"hint": "menjalani mengalami"
+},
+{
+"sentence": "The principle .... the decision of the committee.",
+"use": "v1",
+"answer": "underlie",
+"hint": "mendasari"
+},
+{
+"sentence": "I .... the instructions perfectly.",
+"use": "v2",
+"answer": "understand",
+"hint": "mengerti"
+},
+{
+"sentence": "We .... the project with enthusiasm.",
+"use": "v1",
+"answer": "undertake",
+"hint": "menjalankan mengerjakan"
+},
+{
+"sentence": "He .... the knot with ease.",
+"use": "v2",
+"answer": "undo",
+"hint": "melepas membuka"
+},
+{
+"sentence": "She .... after work with music.",
+"use": "v1",
+"answer": "unwind",
+"hint": "beristirahat"
+},
+{
+"sentence": "The court .... the law in the case.",
+"use": "v2",
+"answer": "uphold",
+"hint": "menegakkan"
+},
+{
+"sentence": "The news .... her greatly.",
+"use": "v1",
+"answer": "upset",
+"hint": "mengganggu menumbangkan"
+},
+{
+"sentence": "I .... early from sleep.",
+"use": "v2",
+"answer": "wake",
+"hint": "bangun"
+},
+{
+"sentence": "She .... the dress to the party.",
+"use": "v1",
+"answer": "wear",
+"hint": "memakai"
+},
+{
+"sentence": "The spider .... a web in the corner.",
+"use": "v2",
+"answer": "weave",
+"hint": "menenun menganyam"
+},
+{
+"sentence": "The child .... for his lost toy sadly.",
+"use": "v1",
+"answer": "weep",
+"hint": "menangis"
+},
+{
+"sentence": "He .... his clothes in the rain storm.",
+"use": "v2",
+"answer": "wet",
+"hint": "membasahi"
+},
+{
+"sentence": "We .... the game last night.",
+"use": "v1",
+"answer": "win",
+"hint": "menang"
+},
+{
+"sentence": "The clock .... down after the battery died.",
+"use": "v2",
+"answer": "wind",
+"hint": "memutar membelit"
+},
+{
+"sentence": "He .... his troops from the battle.",
+"use": "v1",
+"answer": "withdraw",
+"hint": "menarik"
+},
+{
+"sentence": "She .... the information from the group.",
+"use": "v2",
+"answer": "withhold",
+"hint": "menyembunyikan menahan uang utk membayar"
+},
+{
+"sentence": "The dam .... the flood waters.",
+"use": "v1",
+"answer": "withstand",
+"hint": "menahan bertahan"
+},
+{
+"sentence": "He .... the cloth to dry it.",
+"use": "v2",
+"answer": "wring",
+"hint": "memeras"
+},
+{
+"sentence": "She .... a letter to her friend.",
+"use": "v1",
+"answer": "write",
+"hint": "menulis"
+},
+{
+"sentence": "She .... a song yesterday.",
+"use": "v2",
+"answer": "sing",
+"hint": "bernyanyi"
+}
+
+]
